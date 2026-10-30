@@ -1,0 +1,1240 @@
+match_id,season,team_a,team_b,score_a,score_b,winner,date,stage,format
+S1-001,1,Pandora Esports,Elite8,0,2,Elite8,2018-01-13,regular,BO3
+S1-002,1,Pandora Esports,EVOS,0,2,EVOS,2018-01-14,regular,BO3
+S1-003,1,Rev Indo,Saints Indo,2,0,Rev Indo,2018-01-14,regular,BO3
+S1-004,1,Bigetron,Domino Esports,2,0,Bigetron,2018-01-14,regular,BO3
+S1-005,1,RRQ,Domino Esports,2,0,RRQ,2018-01-20,regular,BO2
+S1-006,1,Bigetron,Saints Indo,2,0,Bigetron,2018-01-20,regular,BO3
+S1-007,1,EVOS,Elite8,2,0,EVOS,2018-01-20,regular,BO3
+S1-008,1,Louvre,Bigetron,0,2,Bigetron,2018-01-21,regular,BO3
+S1-009,1,EVOS,RRQ,0,2,RRQ,2018-01-21,regular,BO3
+S1-010,1,Elite8,NXL,2,0,Elite8,2018-01-21,regular,BO3
+S1-011,1,Domino Esports,Louvre,0,2,Louvre,2018-01-27,regular,BO3
+S1-012,1,Louvre,RRQ,0,2,RRQ,2018-01-28,regular,BO3
+S1-013,1,RRQ,Pandora Esports,2,0,RRQ,2018-02-03,regular,BO2
+S1-014,1,EVOS,NXL,2,0,EVOS,2018-02-03,regular,BO3
+S1-015,1,Elite8,Saints Indo,2,0,Elite8,2018-02-03,regular,BO3
+S1-016,1,Pandora Esports,Louvre,2,0,Pandora Esports,2018-02-04,regular,BO3
+S1-017,1,NXL,Domino Esports,2,0,NXL,2018-02-04,regular,BO3
+S1-018,1,Domino Esports,Pandora Esports,2,0,Domino Esports,2018-02-24,regular,BO2
+S1-019,1,Saints Indo,EVOS,0,2,EVOS,2018-02-25,regular,BO3
+S1-020,1,Rev Indo,RRQ,0,2,RRQ,2018-02-25,regular,BO3
+S1-021,1,Elite8,Bigetron,2,0,Elite8,2018-03-03,regular,BO2
+S1-022,1,Pandora Esports,NXL,0,2,NXL,2018-03-03,regular,BO3
+S1-023,1,EVOS,Louvre,2,0,EVOS,2018-03-03,regular,BO3
+S1-024,1,Saints Indo,Domino Esports,2,0,Saints Indo,2018-03-03,regular,BO3
+S1-025,1,Elite8,RRQ,0,2,RRQ,2018-03-04,regular,BO3
+S1-026,1,EVOS,Rev Indo,2,0,EVOS,2018-03-04,regular,BO3
+S1-027,1,Louvre,Saints Indo,2,0,Louvre,2018-03-04,regular,BO3
+S1-028,1,Bigetron,Pandora Esports,2,0,Bigetron,2018-03-10,regular,BO3
+S1-029,1,Domino Esports,EVOS,0,2,EVOS,2018-03-10,regular,BO3
+S1-030,1,Domino Esports,Elite8,0,2,Elite8,2018-03-11,regular,BO3
+S1-031,1,RRQ,Saints Indo,2,0,RRQ,2018-03-11,regular,BO3
+S1-032,1,RRQ,Saints Indo,2,0,RRQ,2018-03-30,playoff,BO3
+S1-033,1,Bigetron,NXL,0,2,NXL,2018-03-30,playoff,BO3
+S1-034,1,EVOS,Louvre,2,1,EVOS,2018-03-30,playoff,BO3
+S1-035,1,Elite8,Rev Indo,0,2,Rev Indo,2018-03-31,playoff,BO3
+S1-036,1,Saints Indo,Bigetron,0,2,Bigetron,2018-03-31,playoff,BO3
+S1-037,1,Louvre,Elite8,0,2,Elite8,2018-03-31,playoff,BO3
+S1-038,1,RRQ,NXL,0,2,NXL,2018-03-31,playoff,BO3
+S1-039,1,EVOS,Rev Indo,2,1,EVOS,2018-03-31,playoff,BO3
+S1-040,1,Rev Indo,Bigetron,1,2,Bigetron,2018-04-01,playoff,BO3
+S1-041,1,RRQ,Elite8,2,0,RRQ,2018-03-31,playoff,BO3
+S1-042,1,Bigetron,RRQ,1,2,RRQ,2018-04-01,playoff,BO3
+S1-043,1,NXL,EVOS,0,2,EVOS,2018-04-01,playoff,BO3
+S1-044,1,NXL,RRQ,2,0,NXL,2018-04-01,playoff,BO3
+S1-045,1,EVOS,NXL,2,3,NXL,2018-04-01,final,BO5
+S2-001,2,Bigetron,Team Capcorn,2,0,Bigetron,2018-09-07,regular,BO3
+S2-002,2,SFI Critical,RRQ,0,2,RRQ,2018-09-07,regular,BO3
+S2-003,2,EVOS,ONIC,0,2,ONIC,2018-09-08,regular,BO3
+S2-004,2,Aerowolf,BOOM,2,0,Aerowolf,2018-09-08,regular,BO3
+S2-005,2,Saints Indo,Louvre,0,2,Louvre,2018-09-08,regular,BO3
+S2-006,2,BOOM,Bigetron,2,0,BOOM,2018-09-09,regular,BO3
+S2-007,2,Louvre,SFI Critical,2,1,Louvre,2018-09-09,regular,BO3
+S2-008,2,ONIC,Aerowolf,2,1,ONIC,2018-09-09,regular,BO3
+S2-009,2,Aerowolf,RRQ,2,1,Aerowolf,2018-09-14,regular,BO3
+S2-010,2,Team Capcorn,Saints Indo,0,2,Saints Indo,2018-09-14,regular,BO3
+S2-011,2,Bigetron,ONIC,0,2,ONIC,2018-09-15,regular,BO3
+S2-012,2,RRQ,EVOS,2,0,RRQ,2018-09-15,regular,BO3
+S2-013,2,Saints Indo,SFI Critical,2,0,Saints Indo,2018-09-16,regular,BO3
+S2-014,2,EVOS,Louvre,2,1,EVOS,2018-09-16,regular,BO3
+S2-015,2,Team Capcorn,BOOM,1,2,BOOM,2018-09-16,regular,BO3
+S2-016,2,RRQ,Bigetron,2,0,RRQ,2018-09-28,regular,BO3
+S2-017,2,Louvre,Aerowolf,0,2,Aerowolf,2018-09-28,regular,BO3
+S2-018,2,BOOM,Saints Indo,1,2,Saints Indo,2018-09-29,regular,BO3
+S2-019,2,ONIC,Team Capcorn,2,0,ONIC,2018-09-29,regular,BO3
+S2-020,2,SFI Critical,EVOS,0,2,EVOS,2018-09-30,regular,BO3
+S2-021,2,Bigetron,Louvre,1,2,Louvre,2018-09-30,regular,BO3
+S2-022,2,RRQ,ONIC,1,2,ONIC,2018-09-30,regular,BO3
+S2-023,2,Team Capcorn,RRQ,0,2,RRQ,2018-10-05,regular,BO3
+S2-024,2,SFI Critical,ONIC,2,1,SFI Critical,2018-10-05,regular,BO3
+S2-025,2,Bigetron,EVOS,0,2,EVOS,2018-10-06,regular,BO3
+S2-026,2,BOOM,Louvre,1,2,Louvre,2018-10-06,regular,BO3
+S2-027,2,Aerowolf,SFI Critical,2,0,Aerowolf,2018-10-06,regular,BO3
+S2-028,2,RRQ,BOOM,2,0,RRQ,2018-10-07,regular,BO3
+S2-029,2,Saints Indo,EVOS,0,2,EVOS,2018-10-07,regular,BO3
+S2-030,2,Louvre,Team Capcorn,2,0,Louvre,2018-10-07,regular,BO3
+S2-031,2,Saints Indo,Bigetron,1,2,Bigetron,2018-10-12,regular,BO3
+S2-032,2,Louvre,RRQ,1,2,RRQ,2018-10-12,regular,BO3
+S2-033,2,EVOS,Aerowolf,1,2,Aerowolf,2018-10-13,regular,BO3
+S2-034,2,SFI Critical,Bigetron,0,2,Bigetron,2018-10-13,regular,BO3
+S2-035,2,Saints Indo,Aerowolf,0,2,Aerowolf,2018-10-14,regular,BO3
+S2-036,2,BOOM,ONIC,0,2,ONIC,2018-10-14,regular,BO3
+S2-037,2,Team Capcorn,SFI Critical,0,2,SFI Critical,2018-10-14,regular,BO3
+S2-038,2,EVOS,Team Capcorn,2,1,EVOS,2018-10-19,regular,BO3
+S2-039,2,RRQ,Saints Indo,2,1,RRQ,2018-10-19,regular,BO3
+S2-040,2,Aerowolf,Bigetron,2,0,Aerowolf,2018-10-20,regular,BO3
+S2-041,2,Louvre,ONIC,0,2,ONIC,2018-10-20,regular,BO3
+S2-042,2,BOOM,EVOS,0,2,EVOS,2018-10-20,regular,BO3
+S2-043,2,SFI Critical,BOOM,2,1,SFI Critical,2018-10-21,regular,BO3
+S2-044,2,Team Capcorn,Aerowolf,0,2,Aerowolf,2018-10-21,regular,BO3
+S2-045,2,ONIC,Saints Indo,2,0,ONIC,2018-10-21,regular,BO3
+S2-046,2,Louvre,SFI Critical,2,0,Louvre,2018-11-17,playoff,BO3
+S2-047,2,Saints Indo,Bigetron,2,0,Saints Indo,2018-11-17,playoff,BO3
+S2-048,2,ONIC,EVOS,0,2,EVOS,2018-11-17,playoff,BO3
+S2-049,2,Aerowolf,RRQ,1,2,RRQ,2018-11-17,playoff,BO3
+S2-050,2,Aerowolf,Louvre,0,2,Louvre,2018-11-17,playoff,BO3
+S2-051,2,ONIC,Saints Indo,2,0,ONIC,2018-11-18,playoff,BO3
+S2-052,2,Louvre,ONIC,1,2,ONIC,2018-11-18,playoff,BO3
+S2-053,2,EVOS,RRQ,1,2,RRQ,2018-11-18,playoff,BO3
+S2-054,2,EVOS,ONIC,2,1,EVOS,2018-11-18,playoff,BO3
+S2-055,2,RRQ,EVOS,3,0,RRQ,2018-11-18,final,BO5
+S3-001,3,Aerowolf,The Prime,2,0,Aerowolf,2019-02-16,regular,BO3
+S3-002,3,SFI Critical,Star8,2,1,SFI Critical,2019-02-16,regular,BO3
+S3-003,3,Aura,Louvre,2,0,Aura,2019-02-16,regular,BO3
+S3-004,3,RRQ,Bigetron,2,0,RRQ,2019-02-16,regular,BO3
+S3-005,3,Alter Ego,EVOS,0,2,EVOS,2019-02-16,regular,BO3
+S3-006,3,Saints Indo,ONIC,0,2,ONIC,2019-02-17,regular,BO3
+S3-007,3,Star8,Aerowolf,0,2,Aerowolf,2019-02-17,regular,BO3
+S3-008,3,The Prime,Saints Indo,2,1,The Prime,2019-02-17,regular,BO3
+S3-009,3,ONIC,Alter Ego,2,0,ONIC,2019-02-17,regular,BO3
+S3-010,3,Louvre,SFI Critical,0,2,SFI Critical,2019-02-17,regular,BO3
+S3-011,3,Bigetron,Aura,2,0,Bigetron,2019-02-23,regular,BO3
+S3-012,3,Aerowolf,Louvre,2,1,Aerowolf,2019-02-23,regular,BO3
+S3-013,3,Aura,EVOS,0,2,EVOS,2019-02-23,regular,BO3
+S3-014,3,SFI Critical,Bigetron,2,0,SFI Critical,2019-02-23,regular,BO3
+S3-015,3,EVOS,RRQ,0,2,RRQ,2019-02-23,regular,BO3
+S3-016,3,ONIC,The Prime,2,0,ONIC,2019-02-24,regular,BO3
+S3-017,3,Saints Indo,Star8,0,2,Star8,2019-02-24,regular,BO3
+S3-018,3,Bigetron,Aerowolf,0,2,Aerowolf,2019-02-24,regular,BO3
+S3-019,3,Louvre,Saints Indo,2,0,Louvre,2019-02-24,regular,BO3
+S3-020,3,Alter Ego,RRQ,2,0,Alter Ego,2019-02-24,regular,BO3
+S3-021,3,Star8,ONIC,0,2,ONIC,2019-03-02,regular,BO3
+S3-022,3,The Prime,Alter Ego,2,1,The Prime,2019-03-02,regular,BO3
+S3-023,3,Louvre,ONIC,1,2,ONIC,2019-03-02,regular,BO3
+S3-024,3,RRQ,Aura,0,2,Aura,2019-03-02,regular,BO3
+S3-025,3,EVOS,SFI Critical,0,2,SFI Critical,2019-03-02,regular,BO3
+S3-026,3,Louvre,The Prime,2,0,Louvre,2019-03-03,regular,BO3
+S3-027,3,SFI Critical,RRQ,1,2,RRQ,2019-03-03,regular,BO3
+S3-028,3,The Prime,Star8,0,2,Star8,2019-03-03,regular,BO3
+S3-029,3,Alter Ego,Aura,2,0,Alter Ego,2019-03-03,regular,BO3
+S3-030,3,Aerowolf,EVOS,0,2,EVOS,2019-03-03,regular,BO3
+S3-031,3,Star8,Alter Ego,0,2,Alter Ego,2019-03-09,regular,BO3
+S3-032,3,Bigetron,ONIC,0,2,ONIC,2019-03-09,regular,BO3
+S3-033,3,Saints Indo,SFI Critical,0,2,SFI Critical,2019-03-09,regular,BO3
+S3-034,3,EVOS,The Prime,1,2,The Prime,2019-03-09,regular,BO3
+S3-035,3,RRQ,Aerowolf,1,2,Aerowolf,2019-03-09,regular,BO3
+S3-036,3,EVOS,ONIC,1,2,ONIC,2019-03-10,regular,BO3
+S3-037,3,Louvre,Star8,2,1,Louvre,2019-03-10,regular,BO3
+S3-038,3,Aerowolf,Aura,2,1,Aerowolf,2019-03-10,regular,BO3
+S3-039,3,Saints Indo,Bigetron,0,2,Bigetron,2019-03-10,regular,BO3
+S3-040,3,The Prime,Bigetron,2,0,The Prime,2019-03-16,regular,BO3
+S3-041,3,Alter Ego,SFI Critical,0,2,SFI Critical,2019-03-16,regular,BO3
+S3-042,3,Aura,Saints Indo,2,0,Aura,2019-03-16,regular,BO3
+S3-043,3,Louvre,Alter Ego,2,1,Louvre,2019-03-16,regular,BO3
+S3-044,3,RRQ,ONIC,1,2,ONIC,2019-03-16,regular,BO3
+S3-045,3,SFI Critical,Aerowolf,0,2,Aerowolf,2019-03-17,regular,BO3
+S3-046,3,Bigetron,Star8,2,0,Bigetron,2019-03-17,regular,BO3
+S3-047,3,EVOS,Saints Indo,2,1,EVOS,2019-03-17,regular,BO3
+S3-048,3,Aura,ONIC,0,2,ONIC,2019-03-17,regular,BO3
+S3-049,3,The Prime,RRQ,0,2,RRQ,2019-03-23,regular,BO3
+S3-050,3,Saints Indo,Aerowolf,1,2,Aerowolf,2019-03-23,regular,BO3
+S3-051,3,Louvre,Bigetron,1,2,Bigetron,2019-03-23,regular,BO3
+S3-052,3,EVOS,Star8,1,2,Star8,2019-03-23,regular,BO3
+S3-053,3,Aura,SFI Critical,0,2,SFI Critical,2019-03-23,regular,BO3
+S3-054,3,EVOS,Louvre,0,2,Louvre,2019-03-24,regular,BO3
+S3-055,3,Bigetron,Alter Ego,2,1,Bigetron,2019-03-24,regular,BO3
+S3-056,3,The Prime,Aura,1,2,Aura,2019-03-24,regular,BO3
+S3-057,3,RRQ,Star8,2,0,RRQ,2019-03-24,regular,BO3
+S3-058,3,Alter Ego,Aerowolf,1,2,Aerowolf,2019-04-06,regular,BO3
+S3-059,3,SFI Critical,ONIC,1,2,ONIC,2019-04-06,regular,BO3
+S3-060,3,RRQ,Saints Indo,2,0,RRQ,2019-04-06,regular,BO3
+S3-061,3,Bigetron,EVOS,1,2,EVOS,2019-04-06,regular,BO3
+S3-062,3,Star8,Aura,2,1,Star8,2019-04-06,regular,BO3
+S3-063,3,The Prime,SFI Critical,2,0,The Prime,2019-04-07,regular,BO3
+S3-064,3,ONIC,Aerowolf,2,0,ONIC,2019-04-07,regular,BO3
+S3-065,3,Alter Ego,Saints Indo,2,0,Alter Ego,2019-04-07,regular,BO3
+S3-066,3,RRQ,Louvre,0,2,Louvre,2019-04-07,regular,BO3
+S3-067,3,RRQ,Bigetron,1,2,Bigetron,2019-05-03,playoff,BO3
+S3-068,3,EVOS,Alter Ego,0,2,Alter Ego,2019-05-03,playoff,BO3
+S3-069,3,ONIC,Louvre,2,0,ONIC,2019-05-03,playoff,BO3
+S3-070,3,Aerowolf,SFI Critical,2,1,Aerowolf,2019-05-03,playoff,BO3
+S3-071,3,SFI Critical,Bigetron,2,1,SFI Critical,2019-05-04,playoff,BO3
+S3-072,3,Louvre,Alter Ego,2,1,Louvre,2019-05-04,playoff,BO3
+S3-073,3,SFI Critical,Louvre,1,2,Louvre,2019-05-04,playoff,BO3
+S3-074,3,ONIC,Aerowolf,2,0,ONIC,2019-05-04,playoff,BO3
+S3-075,3,Aerowolf,Louvre,0,2,Louvre,2019-05-05,playoff,BO3
+S3-076,3,ONIC,Louvre,3,0,ONIC,2019-05-05,final,BO5
+S4-001,4,Bigetron,Alter Ego,2,0,Bigetron,2019-08-23,regular,BO3
+S4-002,4,Aura,Aerowolf,2,1,Aura,2019-08-23,regular,BO3
+S4-003,4,ONIC,RRQ,2,0,ONIC,2019-08-24,regular,BO3
+S4-004,4,EVOS,Geek Fam,2,1,EVOS,2019-08-24,regular,BO3
+S4-005,4,Alter Ego,Aura,0,2,Aura,2019-08-24,regular,BO3
+S4-006,4,Geek Fam,Bigetron,1,2,Bigetron,2019-08-25,regular,BO3
+S4-007,4,RRQ,EVOS,0,2,EVOS,2019-08-25,regular,BO3
+S4-008,4,Aerowolf,ONIC,0,2,ONIC,2019-08-25,regular,BO3
+S4-009,4,EVOS,Aerowolf,2,0,EVOS,2019-08-30,regular,BO3
+S4-010,4,ONIC,Alter Ego,1,2,Alter Ego,2019-08-30,regular,BO3
+S4-011,4,Bigetron,Aura,2,0,Bigetron,2019-08-31,regular,BO3
+S4-012,4,Geek Fam,RRQ,1,2,RRQ,2019-08-31,regular,BO3
+S4-013,4,Aura,ONIC,2,0,Aura,2019-09-01,regular,BO3
+S4-014,4,Aerowolf,Geek Fam,0,2,Geek Fam,2019-09-01,regular,BO3
+S4-015,4,Alter Ego,EVOS,2,1,Alter Ego,2019-09-01,regular,BO3
+S4-016,4,RRQ,Aerowolf,2,1,RRQ,2019-09-06,regular,BO3
+S4-017,4,EVOS,Aura,0,2,Aura,2019-09-06,regular,BO3
+S4-018,4,Geek Fam,Alter Ego,0,2,Alter Ego,2019-09-07,regular,BO3
+S4-019,4,Bigetron,ONIC,0,2,ONIC,2019-09-07,regular,BO3
+S4-020,4,Aura,Geek Fam,2,1,Aura,2019-09-08,regular,BO3
+S4-021,4,Alter Ego,RRQ,1,2,RRQ,2019-09-08,regular,BO3
+S4-022,4,Aerowolf,Bigetron,1,2,Bigetron,2019-09-08,regular,BO3
+S4-023,4,Geek Fam,ONIC,0,2,ONIC,2019-09-13,regular,BO3
+S4-024,4,Bigetron,EVOS,0,2,EVOS,2019-09-13,regular,BO3
+S4-025,4,RRQ,Aura,2,1,RRQ,2019-09-14,regular,BO3
+S4-026,4,Aerowolf,Alter Ego,0,2,Alter Ego,2019-09-14,regular,BO3
+S4-027,4,RRQ,Bigetron,2,1,RRQ,2019-09-15,regular,BO3
+S4-028,4,ONIC,EVOS,0,2,EVOS,2019-09-15,regular,BO3
+S4-029,4,RRQ,Alter Ego,2,0,RRQ,2019-09-20,regular,BO3
+S4-030,4,EVOS,ONIC,2,0,EVOS,2019-09-20,regular,BO3
+S4-031,4,Aura,RRQ,0,2,RRQ,2019-09-21,regular,BO3
+S4-032,4,ONIC,Geek Fam,2,0,ONIC,2019-09-21,regular,BO3
+S4-033,4,EVOS,Bigetron,2,0,EVOS,2019-09-22,regular,BO3
+S4-034,4,Alter Ego,Aerowolf,2,1,Alter Ego,2019-09-22,regular,BO3
+S4-035,4,Bigetron,Aerowolf,1,2,Aerowolf,2019-09-27,regular,BO3
+S4-036,4,Geek Fam,Aura,0,2,Aura,2019-09-27,regular,BO3
+S4-037,4,Aerowolf,EVOS,1,2,EVOS,2019-09-28,regular,BO3
+S4-038,4,Alter Ego,ONIC,2,1,Alter Ego,2019-09-28,regular,BO3
+S4-039,4,Aura,Bigetron,0,2,Bigetron,2019-09-29,regular,BO3
+S4-040,4,RRQ,Geek Fam,2,0,RRQ,2019-09-29,regular,BO3
+S4-041,4,EVOS,Alter Ego,0,2,Alter Ego,2019-09-29,regular,BO3
+S4-042,4,ONIC,Aura,0,2,Aura,2019-10-04,regular,BO3
+S4-043,4,Geek Fam,Aerowolf,2,0,Geek Fam,2019-10-04,regular,BO3
+S4-044,4,Bigetron,RRQ,0,2,RRQ,2019-10-05,regular,BO3
+S4-045,4,Aura,EVOS,0,2,EVOS,2019-10-05,regular,BO3
+S4-046,4,Aerowolf,RRQ,2,1,Aerowolf,2019-10-06,regular,BO3
+S4-047,4,Alter Ego,Geek Fam,2,1,Alter Ego,2019-10-06,regular,BO3
+S4-048,4,ONIC,Bigetron,0,2,Bigetron,2019-10-06,regular,BO3
+S4-049,4,Alter Ego,Bigetron,2,1,Alter Ego,2019-10-11,regular,BO3
+S4-050,4,Aerowolf,Aura,2,1,Aerowolf,2019-10-11,regular,BO3
+S4-051,4,RRQ,ONIC,2,0,RRQ,2019-10-12,regular,BO3
+S4-052,4,Geek Fam,EVOS,0,2,EVOS,2019-10-12,regular,BO3
+S4-053,4,Aura,Alter Ego,1,2,Alter Ego,2019-10-12,regular,BO3
+S4-054,4,Bigetron,Geek Fam,1,2,Geek Fam,2019-10-13,regular,BO3
+S4-055,4,EVOS,RRQ,2,1,EVOS,2019-10-13,regular,BO3
+S4-056,4,ONIC,Aerowolf,2,0,ONIC,2019-10-13,regular,BO3
+S4-057,4,ONIC,Bigetron,1,0,ONIC,2019-10-13,regular,BO1
+S4-058,4,Aura,ONIC,0,2,ONIC,2019-10-26,playoff,BO3
+S4-059,4,Alter Ego,Bigetron,2,1,Alter Ego,2019-10-26,playoff,BO3
+S4-060,4,EVOS,ONIC,2,1,EVOS,2019-10-26,playoff,BO3
+S4-061,4,RRQ,Alter Ego,2,1,RRQ,2019-10-26,playoff,BO3
+S4-062,4,ONIC,Alter Ego,0,2,Alter Ego,2019-10-26,playoff,BO3
+S4-063,4,EVOS,RRQ,2,0,EVOS,2019-10-27,playoff,BO3
+S4-064,4,RRQ,Alter Ego,2,0,RRQ,2019-10-27,playoff,BO3
+S4-065,4,EVOS,RRQ,3,1,EVOS,2019-10-27,final,BO5
+S5-001,5,Bigetron,Alter Ego,2,1,Bigetron,2020-02-07,regular,BO3
+S5-002,5,Aura,ONIC,1,2,ONIC,2020-02-07,regular,BO3
+S5-003,5,ONIC,Bigetron,1,2,Bigetron,2020-02-08,regular,BO3
+S5-004,5,EVOS,RRQ,0,2,RRQ,2020-02-08,regular,BO3
+S5-005,5,Geek Fam,Alter Ego,0,2,Alter Ego,2020-02-08,regular,BO3
+S5-006,5,Aura,Aerowolf,2,1,Aura,2020-02-09,regular,BO3
+S5-007,5,RRQ,Geek Fam,2,0,RRQ,2020-02-09,regular,BO3
+S5-008,5,Aura,Geek Fam,2,0,Aura,2020-02-14,regular,BO3
+S5-009,5,Bigetron,Aerowolf,2,0,Bigetron,2020-02-14,regular,BO3
+S5-010,5,Bigetron,Aura,2,0,Bigetron,2020-02-15,regular,BO3
+S5-011,5,Alter Ego,EVOS,0,2,EVOS,2020-02-15,regular,BO3
+S5-012,5,Aerowolf,RRQ,1,2,RRQ,2020-02-15,regular,BO3
+S5-013,5,EVOS,ONIC,2,0,EVOS,2020-02-16,regular,BO3
+S5-014,5,RRQ,Alter Ego,0,2,Alter Ego,2020-02-16,regular,BO3
+S5-015,5,Aura,RRQ,0,2,RRQ,2020-02-21,regular,BO3
+S5-016,5,ONIC,Geek Fam,2,0,ONIC,2020-02-21,regular,BO3
+S5-017,5,Aerowolf,EVOS,1,2,EVOS,2020-02-22,regular,BO3
+S5-018,5,Alter Ego,ONIC,2,1,Alter Ego,2020-02-22,regular,BO3
+S5-019,5,Geek Fam,Bigetron,0,2,Bigetron,2020-02-22,regular,BO3
+S5-020,5,Aerowolf,Alter Ego,2,0,Aerowolf,2020-02-23,regular,BO3
+S5-021,5,EVOS,Aura,1,2,Aura,2020-02-23,regular,BO3
+S5-022,5,Geek Fam,EVOS,0,2,EVOS,2020-02-28,regular,BO3
+S5-023,5,RRQ,Bigetron,2,0,RRQ,2020-02-28,regular,BO3
+S5-024,5,Bigetron,EVOS,2,0,Bigetron,2020-02-29,regular,BO3
+S5-025,5,Aerowolf,ONIC,1,2,ONIC,2020-02-29,regular,BO3
+S5-026,5,Alter Ego,Aura,0,2,Aura,2020-02-29,regular,BO3
+S5-027,5,ONIC,RRQ,1,2,RRQ,2020-03-01,regular,BO3
+S5-028,5,Geek Fam,Aerowolf,2,1,Geek Fam,2020-03-01,regular,BO3
+S5-029,5,Aerowolf,Aura,2,1,Aerowolf,2020-03-06,regular,BO3
+S5-030,5,ONIC,Alter Ego,1,2,Alter Ego,2020-03-06,regular,BO3
+S5-031,5,Geek Fam,ONIC,0,2,ONIC,2020-03-07,regular,BO3
+S5-032,5,Aura,EVOS,1,2,EVOS,2020-03-07,regular,BO3
+S5-033,5,RRQ,Aerowolf,0,2,Aerowolf,2020-03-07,regular,BO3
+S5-034,5,Alter Ego,Bigetron,0,2,Bigetron,2020-03-08,regular,BO3
+S5-035,5,Geek Fam,RRQ,0,2,RRQ,2020-03-08,regular,BO3
+S5-036,5,Bigetron,Geek Fam,2,0,Bigetron,2020-03-13,regular,BO3
+S5-037,5,Aura,Alter Ego,1,2,Alter Ego,2020-03-13,regular,BO3
+S5-038,5,EVOS,Aerowolf,1,2,Aerowolf,2020-03-14,regular,BO3
+S5-039,5,Bigetron,ONIC,2,0,Bigetron,2020-03-14,regular,BO3
+S5-040,5,Alter Ego,RRQ,0,2,RRQ,2020-03-14,regular,BO3
+S5-041,5,ONIC,Aura,2,0,ONIC,2020-03-15,regular,BO3
+S5-042,5,EVOS,Geek Fam,2,0,EVOS,2020-03-15,regular,BO3
+S5-043,5,ONIC,EVOS,1,2,EVOS,2020-03-20,regular,BO3
+S5-044,5,Bigetron,RRQ,0,2,RRQ,2020-03-20,regular,BO3
+S5-045,5,EVOS,Bigetron,2,0,EVOS,2020-03-21,regular,BO3
+S5-046,5,Alter Ego,Aerowolf,1,2,Aerowolf,2020-03-21,regular,BO3
+S5-047,5,RRQ,Aura,2,0,RRQ,2020-03-21,regular,BO3
+S5-048,5,Geek Fam,Aura,2,1,Geek Fam,2020-03-22,regular,BO3
+S5-049,5,ONIC,Aerowolf,2,1,ONIC,2020-03-22,regular,BO3
+S5-050,5,Aerowolf,Geek Fam,1,2,Geek Fam,2020-03-27,regular,BO3
+S5-051,5,Aura,Bigetron,0,2,Bigetron,2020-03-27,regular,BO3
+S5-052,5,Aerowolf,Bigetron,0,2,Bigetron,2020-03-28,regular,BO3
+S5-053,5,RRQ,EVOS,0,2,EVOS,2020-03-28,regular,BO3
+S5-054,5,Alter Ego,Geek Fam,2,1,Alter Ego,2020-03-28,regular,BO3
+S5-055,5,RRQ,ONIC,2,0,RRQ,2020-03-29,regular,BO3
+S5-056,5,EVOS,Alter Ego,0,2,Alter Ego,2020-03-29,regular,BO3
+S5-057,5,Alter Ego,ONIC,1,2,ONIC,2020-04-10,playoff,BO3
+S5-058,5,EVOS,Aerowolf,2,0,EVOS,2020-04-10,playoff,BO3
+S5-059,5,RRQ,ONIC,2,0,RRQ,2020-04-10,playoff,BO3
+S5-060,5,Bigetron,EVOS,1,2,EVOS,2020-04-11,playoff,BO3
+S5-061,5,ONIC,Bigetron,2,0,ONIC,2020-04-11,playoff,BO3
+S5-062,5,RRQ,EVOS,2,1,RRQ,2020-04-11,playoff,BO3
+S5-063,5,EVOS,ONIC,2,0,EVOS,2020-04-12,playoff,BO3
+S5-064,5,RRQ,EVOS,3,2,RRQ,2020-04-12,final,BO5
+S6-001,6,Geek Fam,RRQ,0,2,RRQ,2020-08-14,regular,BO3
+S6-002,6,Aerowolf,Bigetron,2,1,Aerowolf,2020-08-14,regular,BO3
+S6-003,6,ONIC,Aerowolf,2,0,ONIC,2020-08-15,regular,BO3
+S6-004,6,RRQ,EVOS,2,0,RRQ,2020-08-15,regular,BO3
+S6-005,6,Bigetron,Alter Ego,2,1,Bigetron,2020-08-15,regular,BO3
+S6-006,6,EVOS,Aura,2,0,EVOS,2020-08-16,regular,BO3
+S6-007,6,Alter Ego,Geek Fam,2,1,Alter Ego,2020-08-16,regular,BO3
+S6-008,6,Alter Ego,Aerowolf,2,0,Alter Ego,2020-08-21,regular,BO3
+S6-009,6,Bigetron,Aura,2,0,Bigetron,2020-08-21,regular,BO3
+S6-010,6,Aura,ONIC,1,2,ONIC,2020-08-22,regular,BO3
+S6-011,6,Bigetron,RRQ,2,0,Bigetron,2020-08-22,regular,BO3
+S6-012,6,Geek Fam,EVOS,0,2,EVOS,2020-08-22,regular,BO3
+S6-013,6,ONIC,RRQ,2,1,ONIC,2020-08-23,regular,BO3
+S6-014,6,Geek Fam,Aerowolf,2,1,Geek Fam,2020-08-23,regular,BO3
+S6-015,6,Aura,Alter Ego,1,2,Alter Ego,2020-08-28,regular,BO3
+S6-016,6,EVOS,ONIC,0,2,ONIC,2020-08-28,regular,BO3
+S6-017,6,Bigetron,EVOS,2,0,Bigetron,2020-08-29,regular,BO3
+S6-018,6,Aerowolf,Aura,2,0,Aerowolf,2020-08-29,regular,BO3
+S6-019,6,Alter Ego,RRQ,2,0,Alter Ego,2020-08-29,regular,BO3
+S6-020,6,Geek Fam,ONIC,0,2,ONIC,2020-08-30,regular,BO3
+S6-021,6,RRQ,Aerowolf,1,2,Aerowolf,2020-08-30,regular,BO3
+S6-022,6,Aura,Geek Fam,2,0,Aura,2020-09-04,regular,BO3
+S6-023,6,EVOS,Alter Ego,2,1,EVOS,2020-09-04,regular,BO3
+S6-024,6,Geek Fam,Bigetron,1,2,Bigetron,2020-09-05,regular,BO3
+S6-025,6,Alter Ego,ONIC,2,1,Alter Ego,2020-09-05,regular,BO3
+S6-026,6,Aerowolf,EVOS,1,2,EVOS,2020-09-05,regular,BO3
+S6-027,6,Aura,RRQ,1,2,RRQ,2020-09-06,regular,BO3
+S6-028,6,ONIC,Bigetron,2,0,ONIC,2020-09-06,regular,BO3
+S6-029,6,Bigetron,Aerowolf,2,1,Bigetron,2020-09-11,regular,BO3
+S6-030,6,Geek Fam,Alter Ego,0,2,Alter Ego,2020-09-11,regular,BO3
+S6-031,6,ONIC,Aura,2,0,ONIC,2020-09-12,regular,BO3
+S6-032,6,RRQ,Geek Fam,2,1,RRQ,2020-09-12,regular,BO3
+S6-033,6,Alter Ego,Bigetron,2,1,Alter Ego,2020-09-12,regular,BO3
+S6-034,6,Aura,EVOS,0,2,EVOS,2020-09-13,regular,BO3
+S6-035,6,RRQ,ONIC,2,0,RRQ,2020-09-13,regular,BO3
+S6-036,6,Aerowolf,ONIC,2,0,Aerowolf,2020-09-18,regular,BO3
+S6-037,6,Aura,Bigetron,0,2,Bigetron,2020-09-18,regular,BO3
+S6-038,6,EVOS,Geek Fam,2,0,EVOS,2020-09-19,regular,BO3
+S6-039,6,RRQ,Aura,2,0,RRQ,2020-09-19,regular,BO3
+S6-040,6,ONIC,Alter Ego,0,2,Alter Ego,2020-09-19,regular,BO3
+S6-041,6,Bigetron,Geek Fam,2,1,Bigetron,2020-09-20,regular,BO3
+S6-042,6,EVOS,Aerowolf,0,2,Aerowolf,2020-09-20,regular,BO3
+S6-043,6,Aerowolf,Alter Ego,0,2,Alter Ego,2020-09-25,regular,BO3
+S6-044,6,Bigetron,ONIC,1,2,ONIC,2020-09-25,regular,BO3
+S6-045,6,Geek Fam,Aura,2,1,Geek Fam,2020-09-26,regular,BO3
+S6-046,6,Alter Ego,EVOS,2,0,Alter Ego,2020-09-26,regular,BO3
+S6-047,6,RRQ,Bigetron,2,0,RRQ,2020-09-26,regular,BO3
+S6-048,6,Aerowolf,RRQ,0,2,RRQ,2020-09-27,regular,BO3
+S6-049,6,ONIC,EVOS,2,0,ONIC,2020-09-27,regular,BO3
+S6-050,6,RRQ,Alter Ego,2,0,RRQ,2020-10-02,regular,BO3
+S6-051,6,Aura,Aerowolf,1,2,Aerowolf,2020-10-02,regular,BO3
+S6-052,6,Alter Ego,Aura,2,0,Alter Ego,2020-10-03,regular,BO3
+S6-053,6,ONIC,Geek Fam,2,1,ONIC,2020-10-03,regular,BO3
+S6-054,6,EVOS,Bigetron,2,0,EVOS,2020-10-03,regular,BO3
+S6-055,6,Aerowolf,Geek Fam,2,0,Aerowolf,2020-10-04,regular,BO3
+S6-056,6,EVOS,RRQ,1,2,RRQ,2020-10-04,regular,BO3
+S6-057,6,EVOS,ONIC,1,2,ONIC,2020-10-16,playoff,BO3
+S6-058,6,Bigetron,Aerowolf,2,0,Bigetron,2020-10-16,playoff,BO3
+S6-059,6,RRQ,ONIC,2,1,RRQ,2020-10-16,playoff,BO3
+S6-060,6,Alter Ego,Bigetron,1,2,Bigetron,2020-10-17,playoff,BO3
+S6-061,6,ONIC,Alter Ego,1,2,Alter Ego,2020-10-17,playoff,BO3
+S6-062,6,RRQ,Bigetron,2,0,RRQ,2020-10-17,playoff,BO3
+S6-063,6,Bigetron,Alter Ego,0,2,Alter Ego,2020-10-18,playoff,BO3
+S6-064,6,RRQ,Alter Ego,3,2,RRQ,2020-10-18,final,BO5
+S7-001,7,Aerowolf,Bigetron,1,2,Bigetron,2021-02-26,regular,BO3
+S7-002,7,Geek Fam,RRQ,1,2,RRQ,2021-02-26,regular,BO3
+S7-003,7,Aerowolf,ONIC,1,2,ONIC,2021-02-27,regular,BO3
+S7-004,7,Bigetron,EVOS,2,1,Bigetron,2021-02-27,regular,BO3
+S7-005,7,Alter Ego,RRQ,2,0,Alter Ego,2021-02-27,regular,BO3
+S7-006,7,EVOS,Aura,2,0,EVOS,2021-02-28,regular,BO3
+S7-007,7,Alter Ego,Geek Fam,2,0,Alter Ego,2021-02-28,regular,BO3
+S7-008,7,Alter Ego,Aerowolf,2,0,Alter Ego,2021-03-05,regular,BO3
+S7-009,7,Aura,ONIC,0,2,ONIC,2021-03-05,regular,BO3
+S7-010,7,Bigetron,Aura,2,1,Bigetron,2021-03-06,regular,BO3
+S7-011,7,Geek Fam,EVOS,2,1,Geek Fam,2021-03-06,regular,BO3
+S7-012,7,ONIC,RRQ,2,0,ONIC,2021-03-06,regular,BO3
+S7-013,7,Bigetron,RRQ,0,2,RRQ,2021-03-07,regular,BO3
+S7-014,7,Geek Fam,Aerowolf,2,0,Geek Fam,2021-03-07,regular,BO3
+S7-015,7,Aura,Alter Ego,0,2,Alter Ego,2021-03-12,regular,BO3
+S7-016,7,EVOS,ONIC,2,0,EVOS,2021-03-12,regular,BO3
+S7-017,7,Aerowolf,Aura,2,0,Aerowolf,2021-03-13,regular,BO3
+S7-018,7,Bigetron,Alter Ego,0,2,Alter Ego,2021-03-13,regular,BO3
+S7-019,7,RRQ,EVOS,0,2,EVOS,2021-03-14,regular,BO3
+S7-020,7,Geek Fam,ONIC,1,2,ONIC,2021-03-14,regular,BO3
+S7-021,7,RRQ,Aerowolf,1,2,Aerowolf,2021-03-14,regular,BO3
+S7-022,7,Aura,Geek Fam,1,2,Geek Fam,2021-03-19,regular,BO3
+S7-023,7,ONIC,Bigetron,2,0,ONIC,2021-03-19,regular,BO3
+S7-024,7,Geek Fam,Bigetron,1,2,Bigetron,2021-03-20,regular,BO3
+S7-025,7,Aura,RRQ,0,2,RRQ,2021-03-20,regular,BO3
+S7-026,7,EVOS,Alter Ego,2,0,EVOS,2021-03-20,regular,BO3
+S7-027,7,Aerowolf,EVOS,1,2,EVOS,2021-03-21,regular,BO3
+S7-028,7,Alter Ego,ONIC,0,2,ONIC,2021-03-21,regular,BO3
+S7-029,7,Bigetron,Aerowolf,2,0,Bigetron,2021-03-26,regular,BO3
+S7-030,7,Geek Fam,Alter Ego,0,2,Alter Ego,2021-03-26,regular,BO3
+S7-031,7,ONIC,Aura,2,0,ONIC,2021-03-27,regular,BO3
+S7-032,7,RRQ,Bigetron,2,0,RRQ,2021-03-27,regular,BO3
+S7-033,7,Aerowolf,Alter Ego,2,1,Aerowolf,2021-03-27,regular,BO3
+S7-034,7,Aura,EVOS,0,2,EVOS,2021-03-28,regular,BO3
+S7-035,7,RRQ,ONIC,2,0,RRQ,2021-03-28,regular,BO3
+S7-036,7,Aerowolf,ONIC,2,0,Aerowolf,2021-04-02,regular,BO3
+S7-037,7,Alter Ego,EVOS,1,2,EVOS,2021-04-02,regular,BO3
+S7-038,7,RRQ,Geek Fam,2,0,RRQ,2021-04-03,regular,BO3
+S7-039,7,Aura,Bigetron,0,2,Bigetron,2021-04-03,regular,BO3
+S7-040,7,EVOS,Aerowolf,0,2,Aerowolf,2021-04-03,regular,BO3
+S7-041,7,Bigetron,Geek Fam,2,1,Bigetron,2021-04-04,regular,BO3
+S7-042,7,RRQ,Aura,2,1,RRQ,2021-04-04,regular,BO3
+S7-043,7,Alter Ego,Bigetron,0,2,Bigetron,2021-04-09,regular,BO3
+S7-044,7,Geek Fam,Aura,2,0,Geek Fam,2021-04-09,regular,BO3
+S7-045,7,Bigetron,ONIC,1,2,ONIC,2021-04-10,regular,BO3
+S7-046,7,EVOS,Geek Fam,2,1,EVOS,2021-04-10,regular,BO3
+S7-047,7,RRQ,Alter Ego,2,0,RRQ,2021-04-10,regular,BO3
+S7-048,7,Aerowolf,RRQ,0,2,RRQ,2021-04-11,regular,BO3
+S7-049,7,ONIC,EVOS,2,1,ONIC,2021-04-11,regular,BO3
+S7-050,7,Alter Ego,Aura,2,0,Alter Ego,2021-04-16,regular,BO3
+S7-051,7,ONIC,Geek Fam,2,0,ONIC,2021-04-16,regular,BO3
+S7-052,7,EVOS,Bigetron,1,2,Bigetron,2021-04-17,regular,BO3
+S7-053,7,Aura,Aerowolf,1,2,Aerowolf,2021-04-17,regular,BO3
+S7-054,7,ONIC,Alter Ego,2,0,ONIC,2021-04-17,regular,BO3
+S7-055,7,Aerowolf,Geek Fam,2,0,Aerowolf,2021-04-18,regular,BO3
+S7-056,7,EVOS,RRQ,2,1,EVOS,2021-04-18,regular,BO3
+S7-057,7,RRQ,Aerowolf,1,2,Aerowolf,2021-04-30,playoff,BO3
+S7-058,7,Bigetron,Alter Ego,2,1,Bigetron,2021-04-30,playoff,BO3
+S7-059,7,EVOS,Aerowolf,2,1,EVOS,2021-04-30,playoff,BO3
+S7-060,7,ONIC,Bigetron,1,2,Bigetron,2021-05-01,playoff,BO3
+S7-061,7,Aerowolf,ONIC,2,0,Aerowolf,2021-05-01,playoff,BO3
+S7-062,7,EVOS,Bigetron,1,2,Bigetron,2021-05-01,playoff,BO3
+S7-063,7,EVOS,Aerowolf,2,0,EVOS,2021-05-02,playoff,BO3
+S7-064,7,Bigetron,EVOS,2,4,EVOS,2021-05-02,final,BO7
+S8-001,8,Rebellion,Bigetron,1,2,Bigetron,2021-08-13,regular,BO3
+S8-002,8,Geek Fam,RRQ,0,2,RRQ,2021-08-13,regular,BO3
+S8-003,8,Rebellion,ONIC,0,2,ONIC,2021-08-14,regular,BO3
+S8-004,8,Alter Ego,Geek Fam,2,1,Alter Ego,2021-08-14,regular,BO3
+S8-005,8,EVOS,Bigetron,1,2,Bigetron,2021-08-14,regular,BO3
+S8-006,8,EVOS,Aura,2,0,EVOS,2021-08-15,regular,BO3
+S8-007,8,Alter Ego,RRQ,2,0,Alter Ego,2021-08-15,regular,BO3
+S8-008,8,Alter Ego,Rebellion,2,0,Alter Ego,2021-08-20,regular,BO3
+S8-009,8,Aura,ONIC,1,2,ONIC,2021-08-20,regular,BO3
+S8-010,8,Bigetron,Aura,1,2,Aura,2021-08-21,regular,BO3
+S8-011,8,Geek Fam,EVOS,0,2,EVOS,2021-08-21,regular,BO3
+S8-012,8,ONIC,RRQ,2,1,ONIC,2021-08-21,regular,BO3
+S8-013,8,Bigetron,RRQ,0,2,RRQ,2021-08-22,regular,BO3
+S8-014,8,Geek Fam,Rebellion,2,1,Geek Fam,2021-08-22,regular,BO3
+S8-015,8,Aura,Alter Ego,1,2,Alter Ego,2021-08-27,regular,BO3
+S8-016,8,EVOS,ONIC,2,0,EVOS,2021-08-27,regular,BO3
+S8-017,8,Rebellion,Aura,0,2,Aura,2021-08-28,regular,BO3
+S8-018,8,Bigetron,Alter Ego,1,2,Alter Ego,2021-08-28,regular,BO3
+S8-019,8,RRQ,EVOS,2,0,RRQ,2021-08-28,regular,BO3
+S8-020,8,Geek Fam,ONIC,0,2,ONIC,2021-08-29,regular,BO3
+S8-021,8,RRQ,Rebellion,2,0,RRQ,2021-08-29,regular,BO3
+S8-022,8,Aura,Geek Fam,2,0,Aura,2021-09-03,regular,BO3
+S8-023,8,ONIC,Bigetron,2,0,ONIC,2021-09-03,regular,BO3
+S8-024,8,Geek Fam,Bigetron,1,2,Bigetron,2021-09-04,regular,BO3
+S8-025,8,Aura,RRQ,0,2,RRQ,2021-09-04,regular,BO3
+S8-026,8,EVOS,Alter Ego,1,2,Alter Ego,2021-09-04,regular,BO3
+S8-027,8,Rebellion,EVOS,1,2,EVOS,2021-09-05,regular,BO3
+S8-028,8,Alter Ego,ONIC,2,1,Alter Ego,2021-09-05,regular,BO3
+S8-029,8,Bigetron,Rebellion,1,2,Rebellion,2021-09-10,regular,BO3
+S8-030,8,Geek Fam,Alter Ego,1,2,Alter Ego,2021-09-10,regular,BO3
+S8-031,8,ONIC,Aura,1,2,Aura,2021-09-11,regular,BO3
+S8-032,8,RRQ,Bigetron,2,0,RRQ,2021-09-11,regular,BO3
+S8-033,8,Rebellion,Alter Ego,0,2,Alter Ego,2021-09-11,regular,BO3
+S8-034,8,Aura,EVOS,1,2,EVOS,2021-09-12,regular,BO3
+S8-035,8,RRQ,ONIC,1,2,ONIC,2021-09-12,regular,BO3
+S8-036,8,Rebellion,ONIC,1,2,ONIC,2021-09-17,regular,BO3
+S8-037,8,Alter Ego,EVOS,2,0,Alter Ego,2021-09-17,regular,BO3
+S8-038,8,RRQ,Geek Fam,2,0,RRQ,2021-09-18,regular,BO3
+S8-039,8,Aura,Bigetron,0,2,Bigetron,2021-09-18,regular,BO3
+S8-040,8,EVOS,Rebellion,2,0,EVOS,2021-09-18,regular,BO3
+S8-041,8,Bigetron,Geek Fam,0,2,Geek Fam,2021-09-19,regular,BO3
+S8-042,8,RRQ,Aura,2,1,RRQ,2021-09-19,regular,BO3
+S8-043,8,Alter Ego,Bigetron,0,2,Bigetron,2021-09-24,regular,BO3
+S8-044,8,Geek Fam,Aura,0,2,Aura,2021-09-24,regular,BO3
+S8-045,8,Bigetron,ONIC,1,2,ONIC,2021-09-25,regular,BO3
+S8-046,8,EVOS,Geek Fam,2,0,EVOS,2021-09-25,regular,BO3
+S8-047,8,RRQ,Alter Ego,2,0,RRQ,2021-09-25,regular,BO3
+S8-048,8,Rebellion,RRQ,0,2,RRQ,2021-09-26,regular,BO3
+S8-049,8,ONIC,EVOS,2,0,ONIC,2021-09-26,regular,BO3
+S8-050,8,Alter Ego,Aura,1,2,Aura,2021-10-01,regular,BO3
+S8-051,8,EVOS,Bigetron,0,2,Bigetron,2021-10-01,regular,BO3
+S8-052,8,ONIC,Geek Fam,2,0,ONIC,2021-10-02,regular,BO3
+S8-053,8,Aura,Rebellion,2,0,Aura,2021-10-02,regular,BO3
+S8-054,8,EVOS,RRQ,2,0,EVOS,2021-10-02,regular,BO3
+S8-055,8,Rebellion,Geek Fam,1,2,Geek Fam,2021-10-03,regular,BO3
+S8-056,8,ONIC,Alter Ego,2,0,ONIC,2021-10-03,regular,BO3
+S8-057,8,Alter Ego,Bigetron,3,1,Alter Ego,2021-10-21,playoff,BO5
+S8-058,8,EVOS,Aura,3,2,EVOS,2021-10-21,playoff,BO5
+S8-059,8,RRQ,Alter Ego,3,0,RRQ,2021-10-22,playoff,BO5
+S8-060,8,ONIC,EVOS,3,0,ONIC,2021-10-22,playoff,BO5
+S8-061,8,Alter Ego,EVOS,2,3,EVOS,2021-10-23,playoff,BO5
+S8-062,8,RRQ,ONIC,3,1,RRQ,2021-10-23,playoff,BO5
+S8-063,8,ONIC,EVOS,3,2,ONIC,2021-10-24,playoff,BO5
+S8-064,8,RRQ,ONIC,3,4,ONIC,2021-10-24,final,BO7
+S9-001,9,Geek Fam,RRQ,0,2,RRQ,2022-02-18,regular,BO3
+S9-002,9,Rebellion,Bigetron,1,2,Bigetron,2022-02-18,regular,BO3
+S9-003,9,Alter Ego,Geek Fam,2,0,Alter Ego,2022-02-19,regular,BO3
+S9-004,9,ONIC,Rebellion,2,0,ONIC,2022-02-19,regular,BO3
+S9-005,9,Bigetron,EVOS,2,1,Bigetron,2022-02-19,regular,BO3
+S9-006,9,Alter Ego,RRQ,0,2,RRQ,2022-02-20,regular,BO3
+S9-007,9,EVOS,Aura,2,1,EVOS,2022-02-20,regular,BO3
+S9-008,9,Aura,ONIC,2,0,Aura,2022-02-25,regular,BO3
+S9-009,9,Alter Ego,Rebellion,0,2,Rebellion,2022-02-25,regular,BO3
+S9-010,9,Bigetron,Aura,1,2,Aura,2022-02-26,regular,BO3
+S9-011,9,Geek Fam,EVOS,0,2,EVOS,2022-02-26,regular,BO3
+S9-012,9,ONIC,RRQ,2,0,ONIC,2022-02-26,regular,BO3
+S9-013,9,Geek Fam,Rebellion,0,2,Rebellion,2022-02-27,regular,BO3
+S9-014,9,Bigetron,RRQ,0,2,RRQ,2022-02-27,regular,BO3
+S9-015,9,Aura,Alter Ego,2,1,Aura,2022-03-04,regular,BO3
+S9-016,9,EVOS,ONIC,0,2,ONIC,2022-03-04,regular,BO3
+S9-017,9,Rebellion,Aura,0,2,Aura,2022-03-05,regular,BO3
+S9-018,9,Bigetron,Alter Ego,0,2,Alter Ego,2022-03-05,regular,BO3
+S9-019,9,RRQ,EVOS,1,2,EVOS,2022-03-05,regular,BO3
+S9-020,9,Geek Fam,ONIC,0,2,ONIC,2022-03-06,regular,BO3
+S9-021,9,RRQ,Rebellion,2,1,RRQ,2022-03-06,regular,BO3
+S9-022,9,Aura,Geek Fam,2,0,Aura,2022-03-11,regular,BO3
+S9-023,9,ONIC,Bigetron,2,0,ONIC,2022-03-11,regular,BO3
+S9-024,9,Aura,RRQ,0,2,RRQ,2022-03-12,regular,BO3
+S9-025,9,Geek Fam,Bigetron,1,2,Bigetron,2022-03-12,regular,BO3
+S9-026,9,EVOS,Alter Ego,2,1,EVOS,2022-03-12,regular,BO3
+S9-027,9,Rebellion,EVOS,2,0,Rebellion,2022-03-13,regular,BO3
+S9-028,9,Alter Ego,ONIC,2,0,Alter Ego,2022-03-13,regular,BO3
+S9-029,9,Aura,EVOS,2,0,Aura,2022-03-18,regular,BO3
+S9-030,9,RRQ,Bigetron,2,0,RRQ,2022-03-18,regular,BO3
+S9-031,9,Geek Fam,Alter Ego,0,2,Alter Ego,2022-03-19,regular,BO3
+S9-032,9,Bigetron,Rebellion,2,0,Bigetron,2022-03-19,regular,BO3
+S9-033,9,RRQ,ONIC,2,0,RRQ,2022-03-19,regular,BO3
+S9-034,9,Rebellion,Alter Ego,1,2,Alter Ego,2022-03-20,regular,BO3
+S9-035,9,ONIC,Aura,2,0,ONIC,2022-03-20,regular,BO3
+S9-036,9,Rebellion,ONIC,0,2,ONIC,2022-03-25,regular,BO3
+S9-037,9,Alter Ego,EVOS,1,2,EVOS,2022-03-25,regular,BO3
+S9-038,9,RRQ,Geek Fam,2,0,RRQ,2022-03-26,regular,BO3
+S9-039,9,Aura,Bigetron,2,0,Aura,2022-03-26,regular,BO3
+S9-040,9,EVOS,Rebellion,2,1,EVOS,2022-03-26,regular,BO3
+S9-041,9,Bigetron,Geek Fam,2,0,Bigetron,2022-03-27,regular,BO3
+S9-042,9,RRQ,Aura,2,1,RRQ,2022-03-27,regular,BO3
+S9-043,9,Alter Ego,Bigetron,0,2,Bigetron,2022-04-01,regular,BO3
+S9-044,9,Geek Fam,Aura,0,2,Aura,2022-04-01,regular,BO3
+S9-045,9,Bigetron,ONIC,1,2,ONIC,2022-04-02,regular,BO3
+S9-046,9,EVOS,Geek Fam,2,0,EVOS,2022-04-02,regular,BO3
+S9-047,9,RRQ,Alter Ego,2,1,RRQ,2022-04-02,regular,BO3
+S9-048,9,Rebellion,RRQ,0,2,RRQ,2022-04-03,regular,BO3
+S9-049,9,ONIC,EVOS,2,0,ONIC,2022-04-03,regular,BO3
+S9-050,9,Alter Ego,Aura,2,0,Alter Ego,2022-04-08,regular,BO3
+S9-051,9,EVOS,Bigetron,2,0,EVOS,2022-04-08,regular,BO3
+S9-052,9,ONIC,Geek Fam,2,0,ONIC,2022-04-09,regular,BO3
+S9-053,9,Aura,Rebellion,2,0,Aura,2022-04-09,regular,BO3
+S9-054,9,EVOS,RRQ,1,2,RRQ,2022-04-09,regular,BO3
+S9-055,9,Rebellion,Geek Fam,2,0,Rebellion,2022-04-10,regular,BO3
+S9-056,9,ONIC,Alter Ego,2,1,ONIC,2022-04-10,regular,BO3
+S9-057,9,Aura,Bigetron,3,2,Aura,2022-04-21,playoff,BO5
+S9-058,9,EVOS,Alter Ego,3,2,EVOS,2022-04-21,playoff,BO5
+S9-059,9,ONIC,Aura,3,1,ONIC,2022-04-22,playoff,BO5
+S9-060,9,RRQ,EVOS,3,2,RRQ,2022-04-22,playoff,BO5
+S9-061,9,ONIC,RRQ,2,3,RRQ,2022-04-23,playoff,BO5
+S9-062,9,Aura,EVOS,3,1,Aura,2022-04-23,playoff,BO5
+S9-063,9,ONIC,Aura,3,2,ONIC,2022-04-24,playoff,BO5
+S9-064,9,RRQ,ONIC,4,1,RRQ,2022-04-24,final,BO7
+S10-001,10,Geek Fam,RRQ,1,2,RRQ,2022-08-12,regular,BO3
+S10-002,10,Rebellion,Bigetron,0,2,Bigetron,2022-08-12,regular,BO3
+S10-003,10,Alter Ego,Geek Fam,2,0,Alter Ego,2022-08-13,regular,BO3
+S10-004,10,ONIC,Rebellion,2,0,ONIC,2022-08-13,regular,BO3
+S10-005,10,Bigetron,EVOS,0,2,EVOS,2022-08-13,regular,BO3
+S10-006,10,Alter Ego,RRQ,0,2,RRQ,2022-08-14,regular,BO3
+S10-007,10,EVOS,Aura,0,2,Aura,2022-08-14,regular,BO3
+S10-008,10,Aura,ONIC,1,2,ONIC,2022-08-19,regular,BO3
+S10-009,10,Alter Ego,Rebellion,2,1,Alter Ego,2022-08-19,regular,BO3
+S10-010,10,Bigetron,Aura,1,2,Aura,2022-08-20,regular,BO3
+S10-011,10,Geek Fam,EVOS,0,2,EVOS,2022-08-20,regular,BO3
+S10-012,10,ONIC,RRQ,1,2,RRQ,2022-08-20,regular,BO3
+S10-013,10,Geek Fam,Rebellion,2,0,Geek Fam,2022-08-21,regular,BO3
+S10-014,10,Bigetron,RRQ,1,2,RRQ,2022-08-21,regular,BO3
+S10-015,10,Aura,Alter Ego,2,1,Aura,2022-08-26,regular,BO3
+S10-016,10,EVOS,ONIC,2,1,EVOS,2022-08-26,regular,BO3
+S10-017,10,Rebellion,Aura,2,1,Rebellion,2022-08-27,regular,BO3
+S10-018,10,Bigetron,Alter Ego,1,2,Alter Ego,2022-08-27,regular,BO3
+S10-019,10,RRQ,EVOS,0,2,EVOS,2022-08-27,regular,BO3
+S10-020,10,Geek Fam,ONIC,0,2,ONIC,2022-08-28,regular,BO3
+S10-021,10,RRQ,Rebellion,0,2,Rebellion,2022-08-28,regular,BO3
+S10-022,10,Aura,Geek Fam,2,1,Aura,2022-09-02,regular,BO3
+S10-023,10,ONIC,Bigetron,2,0,ONIC,2022-09-02,regular,BO3
+S10-024,10,Aura,RRQ,2,0,Aura,2022-09-03,regular,BO3
+S10-025,10,EVOS,Alter Ego,1,2,Alter Ego,2022-09-03,regular,BO3
+S10-026,10,Geek Fam,Bigetron,1,2,Bigetron,2022-09-03,regular,BO3
+S10-027,10,Rebellion,EVOS,0,2,EVOS,2022-09-04,regular,BO3
+S10-028,10,Alter Ego,ONIC,1,2,ONIC,2022-09-04,regular,BO3
+S10-029,10,Aura,EVOS,2,1,Aura,2022-09-09,regular,BO3
+S10-030,10,RRQ,Bigetron,2,0,RRQ,2022-09-09,regular,BO3
+S10-031,10,Geek Fam,Alter Ego,2,0,Geek Fam,2022-09-10,regular,BO3
+S10-032,10,Bigetron,Rebellion,2,1,Bigetron,2022-09-10,regular,BO3
+S10-033,10,RRQ,ONIC,0,2,ONIC,2022-09-10,regular,BO3
+S10-034,10,Rebellion,Alter Ego,2,0,Rebellion,2022-09-11,regular,BO3
+S10-035,10,ONIC,Aura,2,1,ONIC,2022-09-11,regular,BO3
+S10-036,10,Rebellion,ONIC,1,2,ONIC,2022-09-16,regular,BO3
+S10-037,10,Alter Ego,EVOS,2,0,Alter Ego,2022-09-16,regular,BO3
+S10-038,10,RRQ,Geek Fam,2,0,RRQ,2022-09-17,regular,BO3
+S10-039,10,Aura,Bigetron,0,2,Bigetron,2022-09-17,regular,BO3
+S10-040,10,EVOS,Rebellion,0,2,Rebellion,2022-09-17,regular,BO3
+S10-041,10,Bigetron,Geek Fam,2,1,Bigetron,2022-09-18,regular,BO3
+S10-042,10,RRQ,Aura,2,0,RRQ,2022-09-18,regular,BO3
+S10-043,10,Alter Ego,Bigetron,2,0,Alter Ego,2022-09-23,regular,BO3
+S10-044,10,Geek Fam,Aura,2,1,Geek Fam,2022-09-23,regular,BO3
+S10-045,10,Bigetron,ONIC,2,1,Bigetron,2022-09-24,regular,BO3
+S10-046,10,RRQ,Alter Ego,2,1,RRQ,2022-09-24,regular,BO3
+S10-047,10,EVOS,Geek Fam,1,2,Geek Fam,2022-09-24,regular,BO3
+S10-048,10,Rebellion,RRQ,2,0,Rebellion,2022-09-25,regular,BO3
+S10-049,10,ONIC,EVOS,2,1,ONIC,2022-09-25,regular,BO3
+S10-050,10,Alter Ego,Aura,2,0,Alter Ego,2022-09-30,regular,BO3
+S10-051,10,EVOS,Bigetron,0,2,Bigetron,2022-09-30,regular,BO3
+S10-052,10,ONIC,Geek Fam,2,1,ONIC,2022-10-01,regular,BO3
+S10-053,10,Aura,Rebellion,1,2,Rebellion,2022-10-01,regular,BO3
+S10-054,10,EVOS,RRQ,0,2,RRQ,2022-10-01,regular,BO3
+S10-055,10,Rebellion,Geek Fam,1,2,Geek Fam,2022-10-02,regular,BO3
+S10-056,10,ONIC,Alter Ego,2,1,ONIC,2022-10-02,regular,BO3
+S10-057,10,Alter Ego,Aura,2,3,Aura,2022-10-19,playoff,BO5
+S10-058,10,Bigetron,Rebellion,3,0,Bigetron,2022-10-19,playoff,BO5
+S10-059,10,RRQ,Aura,3,2,RRQ,2022-10-20,playoff,BO5
+S10-060,10,ONIC,Bigetron,3,1,ONIC,2022-10-20,playoff,BO5
+S10-061,10,RRQ,ONIC,3,1,RRQ,2022-10-21,playoff,BO5
+S10-062,10,Aura,Bigetron,3,0,Aura,2022-10-21,playoff,BO5
+S10-063,10,ONIC,Aura,3,0,ONIC,2022-10-22,playoff,BO5
+S10-064,10,RRQ,ONIC,1,4,ONIC,2022-10-23,final,BO7
+S11-001,11,Aura,Rebellion,1,2,Rebellion,2023-02-17,regular,BO3
+S11-002,11,RRQ,Bigetron,2,0,RRQ,2023-02-17,regular,BO3
+S11-003,11,Geek Fam,ONIC,1,2,ONIC,2023-02-17,regular,BO3
+S11-004,11,Alter Ego,RRQ,0,2,RRQ,2023-02-18,regular,BO3
+S11-005,11,Aura,Geek Fam,0,2,Geek Fam,2023-02-18,regular,BO3
+S11-006,11,Rebellion,EVOS,0,2,EVOS,2023-02-18,regular,BO3
+S11-007,11,Bigetron,ONIC,0,2,ONIC,2023-02-18,regular,BO3
+S11-008,11,EVOS,Alter Ego,2,0,EVOS,2023-02-19,regular,BO3
+S11-009,11,Bigetron,Aura,2,1,Bigetron,2023-02-19,regular,BO3
+S11-010,11,EVOS,Geek Fam,2,1,EVOS,2023-02-24,regular,BO3
+S11-011,11,ONIC,RRQ,2,0,ONIC,2023-02-24,regular,BO3
+S11-012,11,Alter Ego,Rebellion,2,0,Alter Ego,2023-02-24,regular,BO3
+S11-013,11,RRQ,Aura,2,0,RRQ,2023-02-25,regular,BO3
+S11-014,11,ONIC,Alter Ego,2,1,ONIC,2023-02-25,regular,BO3
+S11-015,11,EVOS,Bigetron,1,2,Bigetron,2023-02-25,regular,BO3
+S11-016,11,Geek Fam,Rebellion,0,2,Rebellion,2023-02-25,regular,BO3
+S11-017,11,Aura,ONIC,1,2,ONIC,2023-02-26,regular,BO3
+S11-018,11,RRQ,EVOS,2,1,RRQ,2023-02-26,regular,BO3
+S11-019,11,Geek Fam,Alter Ego,2,0,Geek Fam,2023-03-03,regular,BO3
+S11-020,11,Rebellion,Bigetron,2,1,Rebellion,2023-03-03,regular,BO3
+S11-021,11,EVOS,Aura,2,1,EVOS,2023-03-03,regular,BO3
+S11-022,11,Bigetron,Geek Fam,1,2,Geek Fam,2023-03-04,regular,BO3
+S11-023,11,Rebellion,RRQ,0,2,RRQ,2023-03-04,regular,BO3
+S11-024,11,Alter Ego,Aura,0,2,Aura,2023-03-04,regular,BO3
+S11-025,11,ONIC,EVOS,2,1,ONIC,2023-03-04,regular,BO3
+S11-026,11,Alter Ego,Bigetron,0,2,Bigetron,2023-03-05,regular,BO3
+S11-027,11,ONIC,Rebellion,2,0,ONIC,2023-03-05,regular,BO3
+S11-028,11,Geek Fam,RRQ,2,1,Geek Fam,2023-03-10,regular,BO3
+S11-029,11,Alter Ego,EVOS,2,0,Alter Ego,2023-03-10,regular,BO3
+S11-030,11,Rebellion,Aura,2,0,Rebellion,2023-03-10,regular,BO3
+S11-031,11,RRQ,Alter Ego,1,2,Alter Ego,2023-03-11,regular,BO3
+S11-032,11,Geek Fam,Aura,2,1,Geek Fam,2023-03-11,regular,BO3
+S11-033,11,ONIC,Bigetron,2,0,ONIC,2023-03-11,regular,BO3
+S11-034,11,EVOS,Rebellion,2,0,EVOS,2023-03-11,regular,BO3
+S11-035,11,ONIC,Geek Fam,2,1,ONIC,2023-03-12,regular,BO3
+S11-036,11,Bigetron,RRQ,2,1,Bigetron,2023-03-12,regular,BO3
+S11-037,11,Geek Fam,EVOS,2,0,Geek Fam,2023-03-17,regular,BO3
+S11-038,11,Aura,Bigetron,0,2,Bigetron,2023-03-17,regular,BO3
+S11-039,11,RRQ,ONIC,2,1,RRQ,2023-03-17,regular,BO3
+S11-040,11,Bigetron,EVOS,1,2,EVOS,2023-03-18,regular,BO3
+S11-041,11,Alter Ego,ONIC,0,2,ONIC,2023-03-18,regular,BO3
+S11-042,11,Rebellion,Geek Fam,1,2,Geek Fam,2023-03-18,regular,BO3
+S11-043,11,Rebellion,Alter Ego,1,2,Alter Ego,2023-03-19,regular,BO3
+S11-044,11,ONIC,Aura,2,1,ONIC,2023-03-19,regular,BO3
+S11-045,11,EVOS,RRQ,1,2,RRQ,2023-03-23,regular,BO3
+S11-046,11,Alter Ego,Geek Fam,2,1,Alter Ego,2023-03-23,regular,BO3
+S11-047,11,Bigetron,Rebellion,2,0,Bigetron,2023-03-24,regular,BO3
+S11-048,11,Aura,EVOS,0,2,EVOS,2023-03-24,regular,BO3
+S11-049,11,RRQ,Geek Fam,1,2,Geek Fam,2023-03-24,regular,BO3
+S11-050,11,EVOS,ONIC,0,2,ONIC,2023-03-25,regular,BO3
+S11-051,11,RRQ,Rebellion,2,1,RRQ,2023-03-25,regular,BO3
+S11-052,11,Aura,Alter Ego,1,2,Alter Ego,2023-03-25,regular,BO3
+S11-053,11,Geek Fam,Bigetron,0,2,Bigetron,2023-03-25,regular,BO3
+S11-054,11,Aura,RRQ,1,2,RRQ,2023-03-26,regular,BO3
+S11-055,11,Rebellion,ONIC,0,2,ONIC,2023-03-26,regular,BO3
+S11-056,11,Bigetron,Alter Ego,2,0,Bigetron,2023-03-26,regular,BO3
+S11-057,11,Bigetron,Alter Ego,2,3,Alter Ego,2023-04-05,playoff,BO5
+S11-058,11,Geek Fam,EVOS,2,3,EVOS,2023-04-05,playoff,BO5
+S11-059,11,RRQ,Alter Ego,1,3,Alter Ego,2023-04-06,playoff,BO5
+S11-060,11,ONIC,EVOS,3,0,ONIC,2023-04-06,playoff,BO5
+S11-061,11,Alter Ego,ONIC,0,3,ONIC,2023-04-07,playoff,BO5
+S11-062,11,RRQ,EVOS,2,3,EVOS,2023-04-07,playoff,BO5
+S11-063,11,Alter Ego,EVOS,2,3,EVOS,2023-04-08,playoff,BO5
+S11-064,11,ONIC,EVOS,4,0,ONIC,2023-04-09,final,BO7
+S12-001,12,Aura,Dewa United,1,2,Dewa United,2026-07-13,regular,BO3
+S12-002,12,Rebellion,Alter Ego,2,1,Rebellion,2026-07-13,regular,BO3
+S12-003,12,Bigetron,Geek Fam,2,1,Bigetron,2026-07-14,regular,BO3
+S12-004,12,Aura,RRQ,0,2,RRQ,2026-07-14,regular,BO3
+S12-005,12,Alter Ego,Bigetron,0,2,Bigetron,2026-07-15,regular,BO3
+S12-006,12,Dewa United,Rebellion,2,1,Dewa United,2026-07-15,regular,BO3
+S12-007,12,RRQ,ONIC,2,1,RRQ,2026-07-15,regular,BO3
+S12-008,12,Geek Fam,ONIC,0,2,ONIC,2026-07-16,regular,BO3
+S12-009,12,Rebellion,RRQ,0,2,RRQ,2026-07-16,regular,BO3
+S12-010,12,Bigetron,Dewa United,2,0,Bigetron,2026-07-27,regular,BO3
+S12-011,12,ONIC,Alter Ego,2,0,ONIC,2026-07-27,regular,BO3
+S12-012,12,EVOS,Geek Fam,2,1,EVOS,2026-07-28,regular,BO3
+S12-013,12,Dewa United,ONIC,0,2,ONIC,2026-07-28,regular,BO3
+S12-014,12,Aura,Rebellion,0,2,Rebellion,2026-07-29,regular,BO3
+S12-015,12,Geek Fam,Alter Ego,2,0,Geek Fam,2026-07-29,regular,BO3
+S12-016,12,EVOS,RRQ,1,2,RRQ,2026-07-29,regular,BO3
+S12-017,12,Alter Ego,EVOS,0,2,EVOS,2026-07-30,regular,BO3
+S12-018,12,RRQ,Bigetron,2,0,RRQ,2026-07-30,regular,BO3
+S12-019,12,Bigetron,Aura,0,2,Aura,2026-08-03,regular,BO3
+S12-020,12,EVOS,Dewa United,2,0,EVOS,2026-08-03,regular,BO3
+S12-021,12,Dewa United,Geek Fam,2,0,Dewa United,2023-10-28,regular,BO3
+S12-022,12,Aura,ONIC,2,0,Aura,2026-08-04,regular,BO3
+S12-023,12,Rebellion,Bigetron,0,2,Bigetron,2026-08-05,regular,BO3
+S12-024,12,Geek Fam,RRQ,2,1,Geek Fam,2026-08-05,regular,BO3
+S12-025,12,ONIC,EVOS,2,0,ONIC,2026-08-05,regular,BO3
+S12-026,12,ONIC,Rebellion,2,1,ONIC,2026-08-06,regular,BO3
+S12-027,12,EVOS,Aura,2,1,EVOS,2026-08-06,regular,BO3
+S12-028,12,Alter Ego,Dewa United,2,0,Alter Ego,2026-08-10,regular,BO3
+S12-029,12,Aura,Geek Fam,2,0,Aura,2026-08-10,regular,BO3
+S12-030,12,Rebellion,EVOS,2,0,Rebellion,2026-08-11,regular,BO3
+S12-031,12,Bigetron,ONIC,0,2,ONIC,2026-08-11,regular,BO3
+S12-032,12,EVOS,Bigetron,1,2,Bigetron,2026-08-12,regular,BO3
+S12-033,12,Geek Fam,Rebellion,2,0,Geek Fam,2026-08-12,regular,BO3
+S12-034,12,RRQ,Alter Ego,0,2,Alter Ego,2026-08-12,regular,BO3
+S12-035,12,Alter Ego,Aura,2,0,Alter Ego,2026-08-13,regular,BO3
+S12-036,12,Dewa United,RRQ,0,2,RRQ,2026-08-13,regular,BO3
+S12-037,12,Dewa United,Aura,0,2,Aura,2026-08-17,regular,BO3
+S12-038,12,Alter Ego,Rebellion,1,2,Rebellion,2026-08-17,regular,BO3
+S12-039,12,Geek Fam,Bigetron,2,0,Geek Fam,2026-08-18,regular,BO3
+S12-040,12,Alter Ego,RRQ,1,2,RRQ,2026-08-18,regular,BO3
+S12-041,12,ONIC,Geek Fam,0,2,Geek Fam,2026-08-19,regular,BO3
+S12-042,12,Bigetron,Alter Ego,1,2,Alter Ego,2026-08-19,regular,BO3
+S12-043,12,RRQ,Aura,2,1,RRQ,2026-08-19,regular,BO3
+S12-044,12,Rebellion,Dewa United,0,2,Dewa United,2026-08-20,regular,BO3
+S12-045,12,Alter Ego,ONIC,0,2,ONIC,2026-08-20,regular,BO3
+S12-046,12,RRQ,Rebellion,1,2,Rebellion,2026-09-07,regular,BO3
+S12-047,12,Dewa United,Bigetron,2,1,Dewa United,2026-09-07,regular,BO3
+S12-048,12,Geek Fam,EVOS,2,0,Geek Fam,2026-09-08,regular,BO3
+S12-049,12,ONIC,Dewa United,2,1,ONIC,2026-09-08,regular,BO3
+S12-050,12,EVOS,Alter Ego,1,2,Alter Ego,2026-09-09,regular,BO3
+S12-051,12,Rebellion,Aura,2,0,Rebellion,2026-09-09,regular,BO3
+S12-052,12,ONIC,RRQ,2,0,ONIC,2026-09-09,regular,BO3
+S12-053,12,Bigetron,RRQ,1,2,RRQ,2026-09-10,regular,BO3
+S12-054,12,Dewa United,EVOS,2,1,Dewa United,2026-09-10,regular,BO3
+S12-055,12,Aura,Bigetron,0,2,Bigetron,2026-09-14,regular,BO3
+S12-056,12,Alter Ego,Geek Fam,1,2,Geek Fam,2026-09-14,regular,BO3
+S12-057,12,Geek Fam,Dewa United,0,2,Dewa United,2026-09-15,regular,BO3
+S12-058,12,ONIC,Aura,2,0,ONIC,2026-09-15,regular,BO3
+S12-059,12,Bigetron,Rebellion,0,2,Rebellion,2026-09-16,regular,BO3
+S12-060,12,Dewa United,Alter Ego,1,2,Alter Ego,2026-09-16,regular,BO3
+S12-061,12,RRQ,EVOS,2,0,RRQ,2026-09-16,regular,BO3
+S12-062,12,Rebellion,ONIC,0,2,ONIC,2026-09-17,regular,BO3
+S12-063,12,Aura,EVOS,0,2,EVOS,2026-09-17,regular,BO3
+S12-064,12,RRQ,Geek Fam,0,2,Geek Fam,2026-09-21,regular,BO3
+S12-065,12,EVOS,Rebellion,2,0,EVOS,2026-09-21,regular,BO3
+S12-066,12,Geek Fam,Aura,2,1,Geek Fam,2026-09-22,regular,BO3
+S12-067,12,ONIC,Bigetron,2,0,ONIC,2026-09-22,regular,BO3
+S12-068,12,Rebellion,Geek Fam,1,2,Geek Fam,2026-09-23,regular,BO3
+S12-069,12,Aura,Alter Ego,2,1,Aura,2026-09-23,regular,BO3
+S12-070,12,EVOS,ONIC,1,2,ONIC,2026-09-23,regular,BO3
+S12-071,12,Bigetron,EVOS,2,0,Bigetron,2026-09-24,regular,BO3
+S12-072,12,RRQ,Dewa United,2,1,RRQ,2026-09-24,regular,BO3
+S12-073,12,Geek Fam,Dewa United,3,1,Geek Fam,2026-10-11,playoff,BO5
+S12-074,12,Bigetron,Rebellion,3,0,Bigetron,2026-10-11,playoff,BO5
+S12-075,12,RRQ,Geek Fam,2,3,Geek Fam,2026-10-12,playoff,BO5
+S12-076,12,ONIC,Bigetron,3,2,ONIC,2026-10-12,playoff,BO5
+S12-077,12,Geek Fam,ONIC,2,3,ONIC,2026-10-13,playoff,BO5
+S12-078,12,RRQ,Bigetron,0,3,Bigetron,2026-10-13,playoff,BO5
+S12-079,12,Geek Fam,Bigetron,3,2,Geek Fam,2026-10-14,playoff,BO5
+S12-080,12,ONIC,Geek Fam,4,2,ONIC,2026-10-15,final,BO7
+S13-001,13,Alter Ego,EVOS,2,0,Alter Ego,2024-03-08,regular,BO3
+S13-002,13,Dewa United,Rebellion,2,0,Dewa United,2024-03-08,regular,BO3
+S13-003,13,Geek Fam,Bigetron,0,2,Bigetron,2024-03-09,regular,BO3
+S13-004,13,Rebellion,Alter Ego,1,2,Alter Ego,2024-03-09,regular,BO3
+S13-005,13,Aura,Dewa United,0,2,Dewa United,2024-03-09,regular,BO3
+S13-006,13,ONIC,Geek Fam,2,0,ONIC,2026-03-10,regular,BO3
+S13-007,13,RRQ,Aura,2,1,RRQ,2026-03-10,regular,BO3
+S13-008,13,Bigetron,EVOS,2,0,Bigetron,2026-03-10,regular,BO3
+S13-009,13,Rebellion,RRQ,2,0,Rebellion,2026-03-15,regular,BO3
+S13-010,13,EVOS,Aura,0,2,Aura,2026-03-15,regular,BO3
+S13-011,13,Bigetron,Alter Ego,1,2,Alter Ego,2026-03-16,regular,BO3
+S13-012,13,RRQ,ONIC,0,2,ONIC,2026-03-16,regular,BO3
+S13-013,13,EVOS,Geek Fam,1,2,Geek Fam,2026-03-16,regular,BO3
+S13-014,13,Alter Ego,ONIC,1,2,ONIC,2026-03-17,regular,BO3
+S13-015,13,Dewa United,Bigetron,0,2,Bigetron,2026-03-17,regular,BO3
+S13-016,13,Aura,Rebellion,2,0,Aura,2026-03-17,regular,BO3
+S13-017,13,ONIC,Aura,1,2,Aura,2026-03-22,regular,BO3
+S13-018,13,EVOS,Dewa United,2,1,EVOS,2026-03-22,regular,BO3
+S13-019,13,Aura,Bigetron,1,2,Bigetron,2026-03-23,regular,BO3
+S13-020,13,RRQ,EVOS,2,1,RRQ,2026-03-23,regular,BO3
+S13-021,13,Geek Fam,Alter Ego,2,1,Geek Fam,2026-03-23,regular,BO3
+S13-022,13,Rebellion,ONIC,2,1,Rebellion,2026-03-24,regular,BO3
+S13-023,13,Bigetron,RRQ,2,1,Bigetron,2026-03-24,regular,BO3
+S13-024,13,Dewa United,Geek Fam,1,2,Geek Fam,2026-03-24,regular,BO3
+S13-025,13,ONIC,Dewa United,1,2,Dewa United,2026-03-29,regular,BO3
+S13-026,13,Bigetron,Rebellion,2,0,Bigetron,2026-03-29,regular,BO3
+S13-027,13,Aura,Geek Fam,2,0,Aura,2026-03-30,regular,BO3
+S13-028,13,ONIC,Bigetron,2,0,ONIC,2026-03-30,regular,BO3
+S13-029,13,RRQ,Alter Ego,2,0,RRQ,2026-03-30,regular,BO3
+S13-030,13,Rebellion,EVOS,1,2,EVOS,2026-03-31,regular,BO3
+S13-031,13,Geek Fam,RRQ,2,1,Geek Fam,2026-03-31,regular,BO3
+S13-032,13,Alter Ego,Dewa United,2,0,Alter Ego,2026-03-31,regular,BO3
+S13-033,13,Geek Fam,Rebellion,1,2,Rebellion,2026-04-19,regular,BO3
+S13-034,13,EVOS,ONIC,2,0,EVOS,2026-04-19,regular,BO3
+S13-035,13,Dewa United,RRQ,2,1,Dewa United,2026-04-20,regular,BO3
+S13-036,13,Alter Ego,Aura,1,2,Aura,2026-04-20,regular,BO3
+S13-037,13,EVOS,Bigetron,2,1,EVOS,2026-04-20,regular,BO3
+S13-038,13,Alter Ego,Rebellion,1,2,Rebellion,2026-04-21,regular,BO3
+S13-039,13,Geek Fam,ONIC,1,2,ONIC,2026-04-21,regular,BO3
+S13-040,13,Dewa United,Aura,0,2,Aura,2026-04-21,regular,BO3
+S13-041,13,Bigetron,Geek Fam,2,0,Bigetron,2026-04-26,regular,BO3
+S13-042,13,Aura,RRQ,1,2,RRQ,2026-04-26,regular,BO3
+S13-043,13,Geek Fam,EVOS,2,1,Geek Fam,2026-04-27,regular,BO3
+S13-044,13,Rebellion,Dewa United,2,1,Rebellion,2026-04-27,regular,BO3
+S13-045,13,ONIC,Alter Ego,2,1,ONIC,2026-04-27,regular,BO3
+S13-046,13,Dewa United,ONIC,1,2,ONIC,2026-04-28,regular,BO3
+S13-047,13,Alter Ego,Bigetron,0,2,Bigetron,2026-04-28,regular,BO3
+S13-048,13,RRQ,Rebellion,2,0,RRQ,2026-04-28,regular,BO3
+S13-049,13,Rebellion,Aura,2,0,Rebellion,2024-05-03,regular,BO3
+S13-050,13,Bigetron,Dewa United,2,0,Bigetron,2024-05-03,regular,BO3
+S13-051,13,Aura,ONIC,1,2,ONIC,2024-05-04,regular,BO3
+S13-052,13,EVOS,Alter Ego,2,1,EVOS,2024-05-04,regular,BO3
+S13-053,13,RRQ,Bigetron,0,2,Bigetron,2024-05-04,regular,BO3
+S13-054,13,Dewa United,EVOS,1,2,EVOS,2024-05-05,regular,BO3
+S13-055,13,Alter Ego,Geek Fam,0,2,Geek Fam,2024-05-05,regular,BO3
+S13-056,13,ONIC,RRQ,2,0,ONIC,2024-05-05,regular,BO3
+S13-057,13,Geek Fam,Dewa United,2,1,Geek Fam,2026-05-10,regular,BO3
+S13-058,13,Bigetron,Aura,2,0,Bigetron,2026-05-10,regular,BO3
+S13-059,13,Dewa United,Alter Ego,0,2,Alter Ego,2026-05-11,regular,BO3
+S13-060,13,EVOS,RRQ,2,1,EVOS,2026-05-11,regular,BO3
+S13-061,13,ONIC,Rebellion,2,0,ONIC,2026-05-11,regular,BO3
+S13-062,13,RRQ,Geek Fam,0,2,Geek Fam,2026-05-12,regular,BO3
+S13-063,13,Rebellion,Bigetron,1,2,Bigetron,2026-05-12,regular,BO3
+S13-064,13,Aura,EVOS,2,0,Aura,2026-05-12,regular,BO3
+S13-065,13,Geek Fam,Aura,2,1,Geek Fam,2026-05-17,regular,BO3
+S13-066,13,RRQ,Dewa United,2,0,RRQ,2026-05-17,regular,BO3
+S13-067,13,EVOS,Rebellion,2,1,EVOS,2026-05-18,regular,BO3
+S13-068,13,Alter Ego,RRQ,1,2,RRQ,2026-05-18,regular,BO3
+S13-069,13,Bigetron,ONIC,2,0,Bigetron,2026-05-18,regular,BO3
+S13-070,13,Aura,Alter Ego,2,0,Aura,2026-05-19,regular,BO3
+S13-071,13,ONIC,EVOS,2,1,ONIC,2026-05-19,regular,BO3
+S13-072,13,Rebellion,Geek Fam,1,2,Geek Fam,2026-05-19,regular,BO3
+S13-073,13,Geek Fam,RRQ,3,2,Geek Fam,2024-06-05,playoff,BO5
+S13-074,13,Team Liquid,EVOS,0,3,EVOS,2024-06-05,playoff,BO5
+S13-075,13,ONIC,Geek Fam,3,2,ONIC,2024-06-06,playoff,BO5
+S13-076,13,Bigetron,EVOS,1,3,EVOS,2024-06-06,playoff,BO5
+S13-077,13,Geek Fam,Bigetron,3,0,Geek Fam,2024-06-07,playoff,BO5
+S13-078,13,ONIC,EVOS,3,0,ONIC,2024-06-07,playoff,BO5
+S13-079,13,EVOS,Geek Fam,3,2,EVOS,2024-06-08,playoff,BO5
+S13-080,13,ONIC,EVOS,4,2,ONIC,2024-06-09,final,BO7
+S14-001,14,ONIC,Team Liquid,2,0,ONIC,2024-08-09,regular,BO3
+S14-002,14,EVOS,Dewa United,1,2,Dewa United,2024-08-09,regular,BO3
+S14-003,14,Team Liquid,Bigetron,0,2,Bigetron,2026-08-10,regular,BO3
+S14-004,14,RRQ,EVOS,2,0,RRQ,2026-08-10,regular,BO3
+S14-005,14,Geek Fam,Alter Ego,1,2,Alter Ego,2026-08-10,regular,BO3
+S14-006,14,Rebellion,ONIC,1,2,ONIC,2026-08-11,regular,BO3
+S14-007,14,Bigetron,RRQ,2,1,Bigetron,2026-08-11,regular,BO3
+S14-008,14,Dewa United,Geek Fam,2,0,Dewa United,2026-08-11,regular,BO3
+S14-009,14,Rebellion,RRQ,0,2,RRQ,2026-08-16,regular,BO3
+S14-010,14,EVOS,Team Liquid,1,2,Team Liquid,2026-08-16,regular,BO3
+S14-011,14,Bigetron,Alter Ego,2,0,Bigetron,2026-08-17,regular,BO3
+S14-012,14,RRQ,ONIC,2,0,RRQ,2026-08-17,regular,BO3
+S14-013,14,EVOS,Geek Fam,1,2,Geek Fam,2026-08-17,regular,BO3
+S14-014,14,Dewa United,Bigetron,0,2,Bigetron,2026-08-18,regular,BO3
+S14-015,14,Alter Ego,ONIC,0,2,ONIC,2026-08-18,regular,BO3
+S14-016,14,Team Liquid,Rebellion,2,0,Team Liquid,2026-08-18,regular,BO3
+S14-017,14,ONIC,Geek Fam,1,2,Geek Fam,2026-08-23,regular,BO3
+S14-018,14,Dewa United,Rebellion,2,0,Dewa United,2026-08-23,regular,BO3
+S14-019,14,Geek Fam,Bigetron,2,1,Geek Fam,2026-08-24,regular,BO3
+S14-020,14,Alter Ego,EVOS,1,2,EVOS,2026-08-24,regular,BO3
+S14-021,14,Team Liquid,Dewa United,2,0,Team Liquid,2026-08-24,regular,BO3
+S14-022,14,Rebellion,Alter Ego,1,2,Alter Ego,2026-08-25,regular,BO3
+S14-023,14,RRQ,Team Liquid,2,0,RRQ,2026-08-25,regular,BO3
+S14-024,14,Bigetron,EVOS,2,1,Bigetron,2026-08-25,regular,BO3
+S14-025,14,ONIC,Dewa United,2,1,ONIC,2026-08-30,regular,BO3
+S14-026,14,Bigetron,Rebellion,2,1,Bigetron,2026-08-30,regular,BO3
+S14-027,14,Team Liquid,Geek Fam,2,1,Team Liquid,2026-08-31,regular,BO3
+S14-028,14,ONIC,Bigetron,2,1,ONIC,2026-08-31,regular,BO3
+S14-029,14,RRQ,Alter Ego,2,1,RRQ,2026-08-31,regular,BO3
+S14-030,14,Rebellion,EVOS,2,0,Rebellion,2024-09-01,regular,BO3
+S14-031,14,Geek Fam,RRQ,1,2,RRQ,2024-09-01,regular,BO3
+S14-032,14,Alter Ego,Dewa United,2,0,Alter Ego,2024-09-01,regular,BO3
+S14-033,14,Geek Fam,Rebellion,2,0,Geek Fam,2024-09-06,regular,BO3
+S14-034,14,EVOS,ONIC,0,2,ONIC,2024-09-06,regular,BO3
+S14-035,14,Dewa United,RRQ,1,2,RRQ,2024-09-07,regular,BO3
+S14-036,14,Alter Ego,Team Liquid,0,2,Team Liquid,2024-09-07,regular,BO3
+S14-037,14,EVOS,Bigetron,0,2,Bigetron,2024-09-07,regular,BO3
+S14-038,14,Alter Ego,Rebellion,2,0,Alter Ego,2024-09-08,regular,BO3
+S14-039,14,Geek Fam,ONIC,2,0,Geek Fam,2024-09-08,regular,BO3
+S14-040,14,Dewa United,Team Liquid,1,2,Team Liquid,2024-09-08,regular,BO3
+S14-041,14,Bigetron,Dewa United,2,1,Bigetron,2026-09-13,regular,BO3
+S14-042,14,Rebellion,Team Liquid,1,2,Team Liquid,2026-09-13,regular,BO3
+S14-043,14,Dewa United,EVOS,2,0,Dewa United,2026-09-14,regular,BO3
+S14-044,14,Alter Ego,Geek Fam,1,2,Geek Fam,2026-09-14,regular,BO3
+S14-045,14,ONIC,RRQ,0,2,RRQ,2026-09-14,regular,BO3
+S14-046,14,EVOS,Alter Ego,0,2,Alter Ego,2026-09-15,regular,BO3
+S14-047,14,Team Liquid,ONIC,2,0,Team Liquid,2026-09-15,regular,BO3
+S14-048,14,RRQ,Bigetron,2,1,RRQ,2026-09-15,regular,BO3
+S14-049,14,Geek Fam,Dewa United,2,0,Geek Fam,2026-09-20,regular,BO3
+S14-050,14,Bigetron,Team Liquid,0,2,Team Liquid,2026-09-20,regular,BO3
+S14-051,14,Dewa United,Alter Ego,2,0,Dewa United,2026-09-21,regular,BO3
+S14-052,14,EVOS,RRQ,2,1,EVOS,2026-09-21,regular,BO3
+S14-053,14,ONIC,Rebellion,0,2,Rebellion,2026-09-21,regular,BO3
+S14-054,14,RRQ,Geek Fam,2,0,RRQ,2026-09-22,regular,BO3
+S14-055,14,Rebellion,Bigetron,0,2,Bigetron,2026-09-22,regular,BO3
+S14-056,14,Team Liquid,EVOS,2,1,Team Liquid,2026-09-22,regular,BO3
+S14-057,14,Geek Fam,Team Liquid,0,2,Team Liquid,2026-09-27,regular,BO3
+S14-058,14,RRQ,Dewa United,2,0,RRQ,2026-09-27,regular,BO3
+S14-059,14,EVOS,Rebellion,2,1,EVOS,2026-09-28,regular,BO3
+S14-060,14,Alter Ego,RRQ,2,0,Alter Ego,2026-09-28,regular,BO3
+S14-061,14,Bigetron,ONIC,1,2,ONIC,2026-09-28,regular,BO3
+S14-062,14,Team Liquid,Alter Ego,2,1,Team Liquid,2026-09-29,regular,BO3
+S14-063,14,ONIC,EVOS,2,0,ONIC,2026-09-29,regular,BO3
+S14-064,14,Rebellion,Geek Fam,1,2,Geek Fam,2026-09-29,regular,BO3
+S14-065,14,Bigetron,Geek Fam,2,0,Bigetron,2024-10-04,regular,BO3
+S14-066,14,Rebellion,Dewa United,2,1,Rebellion,2024-10-04,regular,BO3
+S14-067,14,Geek Fam,EVOS,2,1,Geek Fam,2024-10-05,regular,BO3
+S14-068,14,Team Liquid,RRQ,1,2,RRQ,2024-10-05,regular,BO3
+S14-069,14,ONIC,Alter Ego,2,0,ONIC,2024-10-05,regular,BO3
+S14-070,14,Dewa United,ONIC,1,2,ONIC,2024-10-06,regular,BO3
+S14-071,14,Alter Ego,Bigetron,0,2,Bigetron,2024-10-06,regular,BO3
+S14-072,14,RRQ,Rebellion,2,0,RRQ,2024-10-06,regular,BO3
+S14-073,14,Bigetron,Alter Ego,3,0,Bigetron,2024-10-23,playoff,BO5
+S14-074,14,ONIC,Geek Fam,2,3,Geek Fam,2024-10-23,playoff,BO5
+S14-075,14,Team Liquid,Bigetron,3,2,Team Liquid,2024-10-24,playoff,BO5
+S14-076,14,RRQ,Geek Fam,3,1,RRQ,2024-10-24,playoff,BO5
+S14-077,14,Team Liquid,RRQ,2,3,RRQ,2024-10-25,playoff,BO5
+S14-078,14,Bigetron,Geek Fam,3,0,Bigetron,2024-10-25,playoff,BO5
+S14-079,14,Team Liquid,Bigetron,3,0,Team Liquid,2024-10-26,playoff,BO5
+S14-080,14,RRQ,Team Liquid,3,4,Team Liquid,2024-10-27,final,BO7
+S15-001,15,NAVI,RRQ,0,2,RRQ,2025-03-07,regular,BO3
+S15-002,15,EVOS,Team Liquid,2,1,EVOS,2025-03-07,regular,BO3
+S15-003,15,EVOS,Geek Fam,2,0,EVOS,2025-03-08,regular,BO3
+S15-004,15,Bigetron,Alter Ego,2,0,Bigetron,2025-03-08,regular,BO3
+S15-005,15,RRQ,ONIC,2,0,RRQ,2024-10-28,regular,BO3
+S15-006,15,Dewa United,Bigetron,2,1,Dewa United,2025-03-09,regular,BO3
+S15-007,15,Alter Ego,ONIC,2,1,Alter Ego,2025-03-09,regular,BO3
+S15-008,15,Team Liquid,NAVI,2,1,Team Liquid,2025-03-09,regular,BO3
+S15-009,15,ONIC,Geek Fam,1,2,Geek Fam,2025-03-14,regular,BO3
+S15-010,15,Dewa United,NAVI,2,0,Dewa United,2025-03-14,regular,BO3
+S15-011,15,NAVI,Alter Ego,1,2,Alter Ego,2025-03-15,regular,BO3
+S15-012,15,RRQ,Team Liquid,2,0,RRQ,2025-03-15,regular,BO3
+S15-013,15,Bigetron,EVOS,1,2,EVOS,2025-03-15,regular,BO3
+S15-014,15,Geek Fam,Bigetron,0,2,Bigetron,2025-03-16,regular,BO3
+S15-015,15,Alter Ego,EVOS,2,0,Alter Ego,2025-03-16,regular,BO3
+S15-016,15,Team Liquid,Dewa United,2,0,Team Liquid,2025-03-16,regular,BO3
+S15-017,15,ONIC,Dewa United,2,1,ONIC,2025-03-21,regular,BO3
+S15-018,15,NAVI,EVOS,0,2,EVOS,2025-03-21,regular,BO3
+S15-019,15,Team Liquid,Geek Fam,1,2,Geek Fam,2025-03-22,regular,BO3
+S15-020,15,ONIC,Bigetron,2,0,ONIC,2025-03-22,regular,BO3
+S15-021,15,RRQ,Alter Ego,2,1,RRQ,2025-03-22,regular,BO3
+S15-022,15,Bigetron,NAVI,2,1,Bigetron,2025-03-23,regular,BO3
+S15-023,15,Geek Fam,RRQ,1,2,RRQ,2025-03-23,regular,BO3
+S15-024,15,Alter Ego,Dewa United,2,1,Alter Ego,2025-03-23,regular,BO3
+S15-025,15,NAVI,ONIC,1,2,ONIC,2025-04-18,regular,BO3
+S15-026,15,EVOS,Dewa United,1,2,Dewa United,2025-04-18,regular,BO3
+S15-027,15,Team Liquid,Bigetron,1,2,Bigetron,2025-04-19,regular,BO3
+S15-028,15,RRQ,EVOS,2,1,RRQ,2025-04-19,regular,BO3
+S15-029,15,Geek Fam,Alter Ego,2,1,Geek Fam,2025-04-19,regular,BO3
+S15-030,15,ONIC,Team Liquid,1,2,Team Liquid,2025-04-20,regular,BO3
+S15-031,15,Bigetron,RRQ,2,0,Bigetron,2025-04-20,regular,BO3
+S15-032,15,Dewa United,Geek Fam,1,2,Geek Fam,2025-04-20,regular,BO3
+S15-033,15,Geek Fam,NAVI,2,0,Geek Fam,2025-04-25,regular,BO3
+S15-034,15,EVOS,ONIC,2,0,EVOS,2025-04-25,regular,BO3
+S15-035,15,Dewa United,RRQ,0,2,RRQ,2025-04-26,regular,BO3
+S15-036,15,Alter Ego,Team Liquid,1,2,Team Liquid,2025-04-26,regular,BO3
+S15-037,15,EVOS,Bigetron,1,2,Bigetron,2025-04-26,regular,BO3
+S15-038,15,Alter Ego,NAVI,2,1,Alter Ego,2025-04-27,regular,BO3
+S15-039,15,Geek Fam,ONIC,1,2,ONIC,2025-04-27,regular,BO3
+S15-040,15,Dewa United,Team Liquid,1,2,Team Liquid,2025-04-27,regular,BO3
+S15-041,15,NAVI,Dewa United,0,2,Dewa United,2025-05-02,regular,BO3
+S15-042,15,Alter Ego,Geek Fam,0,2,Geek Fam,2025-05-02,regular,BO3
+S15-043,15,EVOS,Alter Ego,0,2,Alter Ego,2025-05-03,regular,BO3
+S15-044,15,Team Liquid,ONIC,0,2,ONIC,2025-05-03,regular,BO3
+S15-045,15,RRQ,Bigetron,2,1,RRQ,2025-05-03,regular,BO3
+S15-046,15,NAVI,Team Liquid,0,2,Team Liquid,2025-05-04,regular,BO3
+S15-047,15,ONIC,RRQ,2,1,ONIC,2025-05-04,regular,BO3
+S15-048,15,Geek Fam,EVOS,2,1,Geek Fam,2025-05-04,regular,BO3
+S15-049,15,Geek Fam,Dewa United,2,0,Geek Fam,2025-05-09,regular,BO3
+S15-050,15,Bigetron,Team Liquid,1,2,Team Liquid,2025-05-09,regular,BO3
+S15-051,15,Dewa United,Alter Ego,0,2,Alter Ego,2025-05-10,regular,BO3
+S15-052,15,EVOS,RRQ,0,2,RRQ,2025-05-10,regular,BO3
+S15-053,15,ONIC,NAVI,2,0,ONIC,2025-05-10,regular,BO3
+S15-054,15,RRQ,Geek Fam,2,1,RRQ,2025-05-11,regular,BO3
+S15-055,15,NAVI,Bigetron,0,2,Bigetron,2025-05-11,regular,BO3
+S15-056,15,Team Liquid,EVOS,2,1,Team Liquid,2025-05-11,regular,BO3
+S15-057,15,Team Liquid,Alter Ego,0,2,Alter Ego,2025-05-16,regular,BO3
+S15-058,15,Bigetron,Dewa United,2,0,Bigetron,2025-05-16,regular,BO3
+S15-059,15,Geek Fam,Team Liquid,2,1,Geek Fam,2025-05-17,regular,BO3
+S15-060,15,Alter Ego,RRQ,1,2,RRQ,2025-05-17,regular,BO3
+S15-061,15,Bigetron,ONIC,2,1,Bigetron,2025-05-17,regular,BO3
+S15-062,15,RRQ,Dewa United,0,2,Dewa United,2025-05-18,regular,BO3
+S15-063,15,ONIC,EVOS,2,0,ONIC,2025-05-18,regular,BO3
+S15-064,15,NAVI,Geek Fam,0,2,Geek Fam,2025-05-18,regular,BO3
+S15-065,15,Bigetron,Geek Fam,1,2,Geek Fam,2025-05-23,regular,BO3
+S15-066,15,Dewa United,ONIC,1,2,ONIC,2025-05-23,regular,BO3
+S15-067,15,EVOS,NAVI,2,1,EVOS,2025-05-24,regular,BO3
+S15-068,15,Team Liquid,RRQ,2,0,Team Liquid,2025-05-24,regular,BO3
+S15-069,15,ONIC,Alter Ego,2,0,ONIC,2025-05-24,regular,BO3
+S15-070,15,Dewa United,EVOS,0,2,EVOS,2025-05-25,regular,BO3
+S15-071,15,Alter Ego,Bigetron,2,0,Alter Ego,2025-05-25,regular,BO3
+S15-072,15,RRQ,NAVI,2,0,RRQ,2025-05-25,regular,BO3
+S15-073,15,ONIC,Team Liquid,3,1,ONIC,2025-06-11,playoff,BO5
+S15-074,15,Bigetron,Alter Ego,2,3,Alter Ego,2025-06-11,playoff,BO5
+S15-075,15,Geek Fam,ONIC,1,3,ONIC,2025-06-12,playoff,BO5
+S15-076,15,RRQ,Alter Ego,3,1,RRQ,2025-06-12,playoff,BO5
+S15-077,15,ONIC,RRQ,3,1,ONIC,2025-06-13,playoff,BO5
+S15-078,15,Geek Fam,Alter Ego,3,0,Geek Fam,2025-06-13,final,BO5
+S16-001,16,ONIC,Dewa United,2,0,ONIC,2025-08-22,regular,BO3
+S16-002,16,NAVI,EVOS,0,2,EVOS,2025-08-22,regular,BO3
+S16-003,16,Team Liquid,Geek Fam,1,2,Geek Fam,2025-08-23,regular,BO3
+S16-004,16,ONIC,Bigetron,2,0,ONIC,2025-08-23,regular,BO3
+S16-005,16,RRQ,Alter Ego,2,1,RRQ,2025-08-23,regular,BO3
+S16-006,16,Bigetron,NAVI,1,2,NAVI,2025-08-24,regular,BO3
+S16-007,16,Geek Fam,RRQ,2,0,Geek Fam,2025-08-24,regular,BO3
+S16-008,16,Alter Ego,Dewa United,2,0,Alter Ego,2025-08-24,regular,BO3
+S16-009,16,ONIC,Geek Fam,2,0,ONIC,2025-08-29,regular,BO3
+S16-010,16,Dewa United,NAVI,2,0,Dewa United,2025-08-29,regular,BO3
+S16-011,16,Geek Fam,Bigetron,0,2,Bigetron,2025-08-30,regular,BO3
+S16-012,16,Alter Ego,EVOS,2,1,Alter Ego,2025-08-30,regular,BO3
+S16-013,16,Team Liquid,Dewa United,1,2,Dewa United,2025-08-30,regular,BO3
+S16-014,16,NAVI,Alter Ego,2,0,NAVI,2025-08-31,regular,BO3
+S16-015,16,RRQ,Team Liquid,2,0,RRQ,2025-08-31,regular,BO3
+S16-016,16,Bigetron,EVOS,2,1,Bigetron,2025-08-31,regular,BO3
+S16-017,16,NAVI,RRQ,0,2,RRQ,2025-09-05,regular,BO3
+S16-018,16,EVOS,Team Liquid,2,0,EVOS,2025-09-05,regular,BO3
+S16-019,16,EVOS,Geek Fam,2,0,EVOS,2025-09-06,regular,BO3
+S16-020,16,Bigetron,Alter Ego,2,1,Bigetron,2025-09-06,regular,BO3
+S16-021,16,RRQ,ONIC,0,2,ONIC,2025-09-06,regular,BO3
+S16-022,16,Dewa United,Bigetron,1,2,Bigetron,2025-09-07,regular,BO3
+S16-023,16,Alter Ego,ONIC,1,2,ONIC,2025-09-07,regular,BO3
+S16-024,16,Team Liquid,NAVI,0,2,NAVI,2025-09-07,regular,BO3
+S16-025,16,NAVI,ONIC,1,2,ONIC,2025-09-12,regular,BO3
+S16-026,16,EVOS,Dewa United,2,0,EVOS,2025-09-12,regular,BO3
+S16-027,16,Team Liquid,Bigetron,0,2,Bigetron,2025-09-13,regular,BO3
+S16-028,16,RRQ,EVOS,2,0,RRQ,2025-09-13,regular,BO3
+S16-029,16,Geek Fam,Alter Ego,0,2,Alter Ego,2025-09-13,regular,BO3
+S16-030,16,ONIC,Team Liquid,2,0,ONIC,2025-09-14,regular,BO3
+S16-031,16,Bigetron,RRQ,2,1,Bigetron,2025-09-14,regular,BO3
+S16-032,16,Dewa United,Geek Fam,2,1,Dewa United,2025-09-14,regular,BO3
+S16-033,16,Geek Fam,NAVI,0,2,NAVI,2025-09-19,regular,BO3
+S16-034,16,EVOS,ONIC,1,2,ONIC,2025-09-19,regular,BO3
+S16-035,16,Dewa United,RRQ,2,0,Dewa United,2025-09-20,regular,BO3
+S16-036,16,Alter Ego,Team Liquid,2,1,Alter Ego,2025-09-20,regular,BO3
+S16-037,16,EVOS,Bigetron,0,2,Bigetron,2025-09-20,regular,BO3
+S16-038,16,Alter Ego,NAVI,2,1,Alter Ego,2025-09-21,regular,BO3
+S16-039,16,Geek Fam,ONIC,0,2,ONIC,2025-09-21,regular,BO3
+S16-040,16,Dewa United,Team Liquid,2,0,Dewa United,2025-09-21,regular,BO3
+S16-041,16,NAVI,Dewa United,0,2,Dewa United,2025-09-26,regular,BO3
+S16-042,16,Alter Ego,Geek Fam,2,0,Alter Ego,2025-09-26,regular,BO3
+S16-043,16,EVOS,Alter Ego,1,2,Alter Ego,2025-09-27,regular,BO3
+S16-044,16,Team Liquid,ONIC,0,2,ONIC,2025-09-27,regular,BO3
+S16-045,16,RRQ,Bigetron,1,2,Bigetron,2025-09-27,regular,BO3
+S16-046,16,NAVI,Team Liquid,2,1,NAVI,2025-09-28,regular,BO3
+S16-047,16,ONIC,RRQ,2,0,ONIC,2025-09-28,regular,BO3
+S16-048,16,Geek Fam,EVOS,0,2,EVOS,2025-09-28,regular,BO3
+S16-049,16,Geek Fam,Dewa United,2,0,Geek Fam,2025-10-03,regular,BO3
+S16-050,16,Bigetron,Team Liquid,0,2,Team Liquid,2025-10-03,regular,BO3
+S16-051,16,Dewa United,Alter Ego,2,0,Dewa United,2025-10-04,regular,BO3
+S16-052,16,EVOS,RRQ,2,1,EVOS,2025-10-04,regular,BO3
+S16-053,16,ONIC,NAVI,2,0,ONIC,2025-10-04,regular,BO3
+S16-054,16,RRQ,Geek Fam,0,2,Geek Fam,2025-10-05,regular,BO3
+S16-055,16,NAVI,Bigetron,0,2,Bigetron,2025-10-05,regular,BO3
+S16-056,16,Team Liquid,EVOS,1,2,EVOS,2025-10-05,regular,BO3
+S16-057,16,Team Liquid,Alter Ego,2,1,Team Liquid,2025-10-10,regular,BO3
+S16-058,16,Bigetron,Dewa United,2,0,Bigetron,2025-10-10,regular,BO3
+S16-059,16,Geek Fam,Team Liquid,1,2,Team Liquid,2025-10-11,regular,BO3
+S16-060,16,Alter Ego,RRQ,2,0,Alter Ego,2025-10-11,regular,BO3
+S16-061,16,Bigetron,ONIC,2,0,Bigetron,2025-10-11,regular,BO3
+S16-062,16,RRQ,Dewa United,2,0,RRQ,2025-10-12,regular,BO3
+S16-063,16,ONIC,EVOS,2,0,ONIC,2025-10-12,regular,BO3
+S16-064,16,NAVI,Geek Fam,2,0,NAVI,2025-10-12,regular,BO3
+S16-065,16,Bigetron,Geek Fam,0,2,Geek Fam,2025-10-17,regular,BO3
+S16-066,16,Dewa United,ONIC,0,2,ONIC,2025-10-17,regular,BO3
+S16-067,16,EVOS,NAVI,2,1,EVOS,2025-10-18,regular,BO3
+S16-068,16,Team Liquid,RRQ,2,0,Team Liquid,2025-10-18,regular,BO3
+S16-069,16,ONIC,Alter Ego,1,2,Alter Ego,2025-10-18,regular,BO3
+S16-070,16,Dewa United,EVOS,2,0,Dewa United,2025-10-19,regular,BO3
+S16-071,16,Alter Ego,Bigetron,1,2,Bigetron,2025-10-19,regular,BO3
+S16-072,16,RRQ,NAVI,2,1,RRQ,2025-10-19,regular,BO3
+S16-073,16,Alter Ego,NAVI,3,1,Alter Ego,2025-10-29,playoff,BO5
+S16-074,16,EVOS,Dewa United,3,2,EVOS,2025-10-29,playoff,BO5
+S16-075,16,Bigetron,Alter Ego,1,3,Alter Ego,2025-10-30,playoff,BO5
+S16-076,16,ONIC,EVOS,3,2,ONIC,2025-10-30,playoff,BO5
+S16-077,16,Alter Ego,ONIC,2,3,ONIC,2025-10-31,playoff,BO5
+S16-078,16,Bigetron,EVOS,0,3,EVOS,2025-10-31,playoff,BO5
+S16-079,16,Alter Ego,EVOS,4,2,Alter Ego,2025-11-01,playoff,BO7
+S16-080,16,ONIC,Alter Ego,4,1,ONIC,2025-11-02,final,BO7
+S17-001,17,Bigetron,Alter Ego,2,1,Bigetron,2026-03-27,regular,BO3
+S17-002,17,NAVI,RRQ,2,0,NAVI,2026-03-27,regular,BO3
+S17-003,17,EVOS,Geek Fam,2,0,EVOS,2026-03-28,regular,BO3
+S17-004,17,Alter Ego,ONIC,0,2,ONIC,2026-03-28,regular,BO3
+S17-005,17,Team Liquid,NAVI,2,1,Team Liquid,2026-03-28,regular,BO3
+S17-006,17,Dewa United,Bigetron,2,0,Dewa United,2026-03-29,regular,BO3
+S17-007,17,EVOS,Team Liquid,0,2,Team Liquid,2026-03-29,regular,BO3
+S17-008,17,RRQ,ONIC,0,2,ONIC,2026-03-29,regular,BO3
+S17-009,17,ONIC,Geek Fam,2,0,ONIC,2026-04-03,regular,BO3
+S17-010,17,Dewa United,NAVI,2,0,Dewa United,2026-04-03,regular,BO3
+S17-011,17,Geek Fam,Bigetron,2,0,Geek Fam,2026-04-04,regular,BO3
+S17-012,17,Alter Ego,EVOS,2,1,Alter Ego,2026-04-04,regular,BO3
+S17-013,17,Team Liquid,Dewa United,2,1,Team Liquid,2026-04-04,regular,BO3
+S17-014,17,NAVI,Alter Ego,1,2,Alter Ego,2026-04-05,regular,BO3
+S17-015,17,RRQ,Team Liquid,0,2,Team Liquid,2026-04-05,regular,BO3
+S17-016,17,Bigetron,EVOS,2,1,Bigetron,2026-04-05,regular,BO3
+S17-017,17,ONIC,Dewa United,2,1,ONIC,2026-04-10,regular,BO3
+S17-018,17,NAVI,EVOS,0,2,EVOS,2026-04-10,regular,BO3
+S17-019,17,Team Liquid,Geek Fam,0,2,Geek Fam,2026-04-11,regular,BO3
+S17-020,17,ONIC,Bigetron,1,2,Bigetron,2026-04-11,regular,BO3
+S17-021,17,RRQ,Alter Ego,1,2,Alter Ego,2026-04-11,regular,BO3
+S17-022,17,Bigetron,NAVI,1,2,NAVI,2026-04-12,regular,BO3
+S17-023,17,Geek Fam,RRQ,2,1,Geek Fam,2026-04-12,regular,BO3
+S17-024,17,Alter Ego,Dewa United,0,2,Dewa United,2026-04-12,regular,BO3
+S17-025,17,NAVI,ONIC,0,2,ONIC,2026-04-17,regular,BO3
+S17-026,17,EVOS,Dewa United,2,0,EVOS,2026-04-17,regular,BO3
+S17-027,17,Team Liquid,Bigetron,1,2,Bigetron,2026-04-18,regular,BO3
+S17-028,17,RRQ,EVOS,0,2,EVOS,2026-04-18,regular,BO3
+S17-029,17,Geek Fam,Alter Ego,1,2,Alter Ego,2026-04-18,regular,BO3
+S17-030,17,ONIC,Team Liquid,2,0,ONIC,2026-04-19,regular,BO3
+S17-031,17,Bigetron,RRQ,2,1,Bigetron,2026-04-19,regular,BO3
+S17-032,17,Dewa United,Geek Fam,2,0,Dewa United,2026-04-19,regular,BO3
+S17-033,17,Geek Fam,NAVI,0,2,NAVI,2026-04-24,regular,BO3
+S17-034,17,EVOS,ONIC,0,2,ONIC,2026-04-24,regular,BO3
+S17-035,17,Dewa United,RRQ,2,0,Dewa United,2026-04-25,regular,BO3
+S17-036,17,Alter Ego,Team Liquid,1,2,Team Liquid,2026-04-25,regular,BO3
+S17-037,17,EVOS,Bigetron,0,2,Bigetron,2026-04-25,regular,BO3
+S17-038,17,Alter Ego,NAVI,2,1,Alter Ego,2026-04-26,regular,BO3
+S17-039,17,Geek Fam,ONIC,2,1,Geek Fam,2026-04-26,regular,BO3
+S17-040,17,Dewa United,Team Liquid,2,0,Dewa United,2026-04-26,regular,BO3
+S17-041,17,NAVI,Dewa United,1,2,Dewa United,2026-05-01,regular,BO3
+S17-042,17,Alter Ego,Geek Fam,2,1,Alter Ego,2026-05-01,regular,BO3
+S17-043,17,EVOS,Alter Ego,2,1,EVOS,2026-05-02,regular,BO3
+S17-044,17,Team Liquid,ONIC,0,2,ONIC,2026-05-02,regular,BO3
+S17-045,17,RRQ,Bigetron,2,0,RRQ,2026-05-02,regular,BO3
+S17-046,17,NAVI,Team Liquid,1,2,Team Liquid,2026-05-03,regular,BO3
+S17-047,17,ONIC,RRQ,2,0,ONIC,2026-05-03,regular,BO3
+S17-048,17,Geek Fam,EVOS,2,0,Geek Fam,2026-05-03,regular,BO3
+S17-049,17,Geek Fam,Dewa United,1,2,Dewa United,2026-05-08,regular,BO3
+S17-050,17,Bigetron,Team Liquid,0,2,Team Liquid,2026-05-08,regular,BO3
+S17-051,17,Dewa United,Alter Ego,1,2,Alter Ego,2026-05-09,regular,BO3
+S17-052,17,EVOS,RRQ,2,0,EVOS,2026-05-09,regular,BO3
+S17-053,17,ONIC,NAVI,2,0,ONIC,2026-05-09,regular,BO3
+S17-054,17,RRQ,Geek Fam,0,2,Geek Fam,2026-05-10,regular,BO3
+S17-055,17,NAVI,Bigetron,2,1,NAVI,2026-05-10,regular,BO3
+S17-056,17,Team Liquid,EVOS,0,2,EVOS,2026-05-10,regular,BO3
+S17-057,17,Bigetron,Geek Fam,0,2,Geek Fam,2026-05-15,regular,BO3
+S17-058,17,Dewa United,ONIC,0,2,ONIC,2026-05-15,regular,BO3
+S17-059,17,EVOS,NAVI,0,2,NAVI,2026-05-16,regular,BO3
+S17-060,17,Team Liquid,RRQ,2,0,Team Liquid,2026-05-16,regular,BO3
+S17-061,17,ONIC,Alter Ego,2,1,ONIC,2026-05-16,regular,BO3
+S17-062,17,Dewa United,EVOS,0,2,EVOS,2026-05-17,regular,BO3
+S17-063,17,Alter Ego,Bigetron,0,2,Bigetron,2026-05-17,regular,BO3
+S17-064,17,RRQ,NAVI,0,2,NAVI,2026-05-17,regular,BO3
+S17-065,17,Bigetron,Dewa United,2,1,Bigetron,2026-05-22,regular,BO3
+S17-066,17,Team Liquid,Alter Ego,2,0,Team Liquid,2026-05-22,regular,BO3
+S17-067,17,Geek Fam,Team Liquid,0,2,Team Liquid,2026-05-23,regular,BO3
+S17-068,17,Alter Ego,RRQ,1,2,RRQ,2026-05-23,regular,BO3
+S17-069,17,Bigetron,ONIC,2,1,Bigetron,2026-05-23,regular,BO3
+S17-070,17,RRQ,Dewa United,1,2,Dewa United,2026-05-24,regular,BO3
+S17-071,17,ONIC,EVOS,2,0,ONIC,2026-05-24,regular,BO3
+S17-072,17,NAVI,Geek Fam,1,2,Geek Fam,2026-05-24,regular,BO3
+S17-073,17,Dewa United,Geek Fam,0,3,Geek Fam,2026-06-10,playoff,BO5
+S17-074,17,Bigetron,EVOS,3,1,Bigetron,2026-06-10,playoff,BO5
+S17-075,17,Team Liquid,Geek Fam,1,3,Geek Fam,2026-06-11,playoff,BO5
+S17-076,17,ONIC,Bigetron,3,1,ONIC,2026-06-11,playoff,BO5
+S17-077,17,Geek Fam,ONIC,0,3,ONIC,2026-06-12,playoff,BO5
+S17-078,17,Team Liquid,Bigetron,0,3,Bigetron,2026-06-12,playoff,BO5
+S17-079,17,Geek Fam,Bigetron,1,4,Bigetron,2026-06-13,playoff,BO7
+S17-080,17,ONIC,Bigetron,1,4,Bigetron,2026-06-14,final,BO7
+S18-001,18,EVOS,RRQ,2,0,EVOS,2026-08-14,regular,BO3
+S18-002,18,NAVI,Alter Ego,0,2,Alter Ego,2026-08-14,regular,BO3
+S18-003,18,Team Liquid,Geek Fam,2,1,Team Liquid,2026-08-15,regular,BO3
+S18-004,18,Dewa United,RRQ,1,2,RRQ,2026-08-15,regular,BO3
+S18-005,18,EVOS,NAVI,1,2,NAVI,2026-08-15,regular,BO3
+S18-006,18,Team Liquid,Dewa United,2,0,Team Liquid,2026-08-16,regular,BO3
+S18-007,18,Bigetron,Geek Fam,2,1,Bigetron,2026-08-16,regular,BO3
+S18-008,18,Alter Ego,ONIC,0,2,ONIC,2026-08-16,regular,BO3
+S18-009,18,Team Liquid,NAVI,0,2,NAVI,2026-08-21,regular,BO3
+S18-010,18,Bigetron,Dewa United,2,0,Bigetron,2026-08-21,regular,BO3
+S18-011,18,Team Liquid,EVOS,2,0,Team Liquid,2026-08-22,regular,BO3
+S18-012,18,NAVI,Geek Fam,2,1,NAVI,2026-08-22,regular,BO3
+S18-013,18,ONIC,RRQ,2,0,ONIC,2026-08-22,regular,BO3
+S18-014,18,Dewa United,Alter Ego,0,2,Alter Ego,2026-08-23,regular,BO3
+S18-015,18,ONIC,Bigetron,1,2,Bigetron,2026-08-23,regular,BO3
+S18-016,18,Geek Fam,EVOS,0,2,EVOS,2026-08-23,regular,BO3
+S18-017,18,Bigetron,NAVI,2,0,Bigetron,2026-08-28,regular,BO3
+S18-018,18,Dewa United,Geek Fam,2,0,Dewa United,2026-08-28,regular,BO3
+S18-019,18,Team Liquid,ONIC,2,1,Team Liquid,2026-08-29,regular,BO3
+S18-020,18,Alter Ego,EVOS,2,0,Alter Ego,2026-08-29,regular,BO3
+S18-021,18,RRQ,Bigetron,1,2,Bigetron,2026-08-29,regular,BO3
+S18-022,18,NAVI,ONIC,2,0,NAVI,2026-08-30,regular,BO3
+S18-023,18,Geek Fam,RRQ,0,2,RRQ,2026-08-30,regular,BO3
+S18-024,18,Team Liquid,Alter Ego,2,1,Team Liquid,2026-08-30,regular,BO3
+S18-025,18,NAVI,Dewa United,2,0,NAVI,2026-09-04,regular,BO3
+S18-026,18,Team Liquid,RRQ,2,0,Team Liquid,2026-09-04,regular,BO3
+S18-027,18,Dewa United,ONIC,2,1,Dewa United,2026-09-05,regular,BO3
+S18-028,18,EVOS,Bigetron,2,1,EVOS,2026-09-05,regular,BO3
+S18-029,18,Alter Ego,Geek Fam,2,0,Alter Ego,2026-09-05,regular,BO3
+S18-030,18,RRQ,NAVI,0,2,NAVI,2026-09-06,regular,BO3
+S18-031,18,ONIC,EVOS,2,0,ONIC,2026-09-06,regular,BO3
+S18-032,18,Bigetron,Alter Ego,0,2,Alter Ego,2026-09-06,regular,BO3
+S18-033,18,Geek Fam,ONIC,2,1,Geek Fam,2026-09-11,regular,BO3
+S18-034,18,Team Liquid,Bigetron,2,0,Team Liquid,2026-09-12,regular,BO3
+S18-035,18,Alter Ego,RRQ,2,0,Alter Ego,2026-09-12,regular,BO3
+S18-036,18,NAVI,EVOS,2,0,NAVI,2026-09-12,regular,BO3
+S18-037,18,Geek Fam,Team Liquid,0,2,Team Liquid,2026-09-13,regular,BO3
+S18-038,18,ONIC,Alter Ego,0,2,Alter Ego,2026-09-13,regular,BO3
+S18-039,18,ONIC,Geek Fam,0,2,Geek Fam,2026-09-18,regular,BO3
+S18-040,18,Dewa United,EVOS,0,2,EVOS,2026-09-18,regular,BO3
+S18-041,18,RRQ,Dewa United,1,2,Dewa United,2026-10-28,regular,BO3
+S18-042,18,Geek Fam,NAVI,0,2,NAVI,2026-09-19,regular,BO3
+S18-043,18,RRQ,Alter Ego,1,2,Alter Ego,2026-09-19,regular,BO3
+S18-044,18,Bigetron,Team Liquid,0,2,Team Liquid,2026-09-19,regular,BO3
+S18-045,18,Alter Ego,Dewa United,0,2,Dewa United,2026-09-20,regular,BO3
+S18-046,18,Bigetron,ONIC,0,2,ONIC,2026-09-20,regular,BO3
+S18-047,18,EVOS,Team Liquid,2,1,EVOS,2026-09-20,regular,BO3
+S18-048,18,Geek Fam,Bigetron,1,2,Bigetron,2026-10-02,regular,BO3
+S18-049,18,Dewa United,Team Liquid,2,1,Dewa United,2026-10-02,regular,BO3
+S18-050,18,Alter Ego,NAVI,1,2,NAVI,2026-10-03,regular,BO3
+S18-051,18,Bigetron,RRQ,2,1,Bigetron,2026-10-03,regular,BO3
+S18-052,18,Geek Fam,Dewa United,2,1,Geek Fam,2026-10-03,regular,BO3
+S18-053,18,Alter Ego,Team Liquid,0,2,Team Liquid,2026-10-04,regular,BO3
+S18-054,18,RRQ,EVOS,2,1,RRQ,2026-10-04,regular,BO3
+S18-055,18,ONIC,NAVI,2,1,ONIC,2026-10-04,regular,BO3
+S18-056,18,EVOS,Dewa United,2,1,EVOS,2026-10-28,regular,BO3
+S18-057,18,Alter Ego,Bigetron,2,0,Alter Ego,2026-10-08,regular,BO3
+S18-058,18,NAVI,Team Liquid,2,0,NAVI,2026-10-08,regular,BO3
+S18-059,18,EVOS,ONIC,2,1,EVOS,2026-10-09,regular,BO3
+S18-060,18,RRQ,Team Liquid,0,2,Team Liquid,2026-10-09,regular,BO3
+S18-061,18,Dewa United,NAVI,0,2,NAVI,2026-10-09,regular,BO3
+S18-062,18,EVOS,Geek Fam,0,2,Geek Fam,2026-10-11,regular,BO3
+S18-063,18,RRQ,ONIC,1,2,ONIC,2026-10-11,regular,BO3
+S18-064,18,Dewa United,Bigetron,0,2,Bigetron,2026-10-11,regular,BO3
+S18-065,18,NAVI,RRQ,2,1,NAVI,2026-10-16,regular,BO3
+S18-066,18,Geek Fam,Alter Ego,0,2,Alter Ego,2026-10-16,regular,BO3
+S18-067,18,ONIC,Dewa United,2,1,ONIC,2026-10-17,regular,BO3
+S18-068,18,Bigetron,EVOS,2,1,Bigetron,2026-10-17,regular,BO3
+S18-069,18,RRQ,Geek Fam,2,1,RRQ,2026-10-17,regular,BO3
+S18-070,18,EVOS,Alter Ego,2,1,EVOS,2026-10-18,regular,BO3
+S18-071,18,NAVI,Bigetron,0,2,Bigetron,2026-10-18,regular,BO3
+S18-072,18,ONIC,Team Liquid,0,2,Team Liquid,2026-10-18,regular,BO3
